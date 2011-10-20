@@ -367,3 +367,6 @@
 [submodule "ZenPacks.community.NetWare"]
 	path = ZenPacks.community.NetWare
 	url = git://github.com/zenoss/ZenPacks.community.NetWare.git
+[submodule "ZenPacks.community.Netbotz"]
+	path = ZenPacks.community.Netbotz
+	url = git://github.com/zenoss/ZenPacks.community.Netbotz.git
