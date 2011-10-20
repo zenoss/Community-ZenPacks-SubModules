@@ -73,3 +73,6 @@
 [submodule "ZenPacks.Ecocoms.OpenLayersMap"]
 	path = ZenPacks.Ecocoms.OpenLayersMap
 	url = git://github.com/zenoss/ZenPacks.Ecocoms.OpenLayersMap.git
+[submodule "ZenPacks.Firestar.CiscoASA"]
+	path = ZenPacks.Firestar.CiscoASA
+	url = git://github.com/zenoss/ZenPacks.Firestar.CiscoASA.git
