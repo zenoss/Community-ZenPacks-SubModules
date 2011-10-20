@@ -505,3 +505,6 @@
 [submodule "ZenPacks.community.groupreporting"]
 	path = ZenPacks.community.groupreporting
 	url = git://github.com/zenoss/ZenPacks.community.groupreporting.git
+[submodule "ZenPacks.community.libvirt"]
+	path = ZenPacks.community.libvirt
+	url = git://github.com/zenoss/ZenPacks.community.libvirt.git
