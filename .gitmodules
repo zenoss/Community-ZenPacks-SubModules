@@ -151,3 +151,6 @@
 [submodule "ZenPacks.PBnJSolutions.Barracuda.Watcher"]
 	path = ZenPacks.PBnJSolutions.Barracuda.Watcher
 	url = git://github.com/zenoss/ZenPacks.PBnJSolutions.Barracuda.Watcher.git
+[submodule "ZenPacks.Peak6JC.WeatherGoose"]
+	path = ZenPacks.Peak6JC.WeatherGoose
+	url = git://github.com/zenoss/ZenPacks.Peak6JC.WeatherGoose.git
