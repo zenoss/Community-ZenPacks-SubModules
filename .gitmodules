@@ -229,3 +229,6 @@
 [submodule "ZenPacks.community.AvailabilityReportPerGroup"]
 	path = ZenPacks.community.AvailabilityReportPerGroup
 	url = git://github.com/zenoss/ZenPacks.community.AvailabilityReportPerGroup.git
+[submodule "ZenPacks.community.CelerraFileSystem"]
+	path = ZenPacks.community.CelerraFileSystem
+	url = git://github.com/zenoss/ZenPacks.community.CelerraFileSystem.git
