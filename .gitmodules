@@ -1,0 +1,3 @@
+[submodule "ZenPacks.AndreaConsadori.ASSP"]
+	path = ZenPacks.AndreaConsadori.ASSP
+	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.ASSP.git
