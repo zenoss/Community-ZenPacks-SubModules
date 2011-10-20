@@ -364,3 +364,6 @@
 [submodule "ZenPacks.community.NetApp"]
 	path = ZenPacks.community.NetApp
 	url = git://github.com/zenoss/ZenPacks.community.NetApp.git
+[submodule "ZenPacks.community.NetWare"]
+	path = ZenPacks.community.NetWare
+	url = git://github.com/zenoss/ZenPacks.community.NetWare.git
