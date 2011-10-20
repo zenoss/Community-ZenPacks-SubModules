@@ -52,3 +52,6 @@
 [submodule "ZenPacks.AndreaConsadori.Pfsense"]
 	path = ZenPacks.AndreaConsadori.Pfsense
 	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.Pfsense.git
+[submodule "ZenPacks.AndreaConsadori.Raytalk"]
+	path = ZenPacks.AndreaConsadori.Raytalk
+	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.Raytalk.git
