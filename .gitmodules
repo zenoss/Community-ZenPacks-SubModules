@@ -421,3 +421,6 @@
 [submodule "ZenPacks.community.SQLDataSource"]
 	path = ZenPacks.community.SQLDataSource
 	url = git://github.com/zenoss/ZenPacks.community.SQLDataSource.git
+[submodule "ZenPacks.community.Splunk"]
+	path = ZenPacks.community.Splunk
+	url = git://github.com/zenoss/ZenPacks.community.Splunk.git
