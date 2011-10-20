@@ -148,3 +148,6 @@
 [submodule "ZenPacks.Opengear.MIBs"]
 	path = ZenPacks.Opengear.MIBs
 	url = git://github.com/zenoss/ZenPacks.Opengear.MIBs.git
+[submodule "ZenPacks.PBnJSolutions.Barracuda.Watcher"]
+	path = ZenPacks.PBnJSolutions.Barracuda.Watcher
+	url = git://github.com/zenoss/ZenPacks.PBnJSolutions.Barracuda.Watcher.git
