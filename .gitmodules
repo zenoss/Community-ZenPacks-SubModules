@@ -256,3 +256,6 @@
 [submodule "ZenPacks.community.DellM1000e"]
 	path = ZenPacks.community.DellM1000e
 	url = git://github.com/zenoss/ZenPacks.community.DellM1000e.git
+[submodule "ZenPacks.community.DellMon"]
+	path = ZenPacks.community.DellMon
+	url = git://github.com/zenoss/ZenPacks.community.DellMon.git
