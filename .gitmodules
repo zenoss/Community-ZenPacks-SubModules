@@ -247,3 +247,6 @@
 [submodule "ZenPacks.community.Clariion"]
 	path = ZenPacks.community.Clariion
 	url = git://github.com/zenoss/ZenPacks.community.Clariion.git
+[submodule "ZenPacks.community.ComponentsCleaner"]
+	path = ZenPacks.community.ComponentsCleaner
+	url = git://github.com/zenoss/ZenPacks.community.ComponentsCleaner.git
