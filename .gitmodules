@@ -1,3 +1,6 @@
 [submodule "ZenPacks.AndreaConsadori.ASSP"]
 	path = ZenPacks.AndreaConsadori.ASSP
 	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.ASSP.git
+[submodule "ZenPacks.AndreaConsadori.AlliedTelsys"]
+	path = ZenPacks.AndreaConsadori.AlliedTelsys
+	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.AlliedTelsys.git
