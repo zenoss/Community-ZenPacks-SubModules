@@ -442,3 +442,6 @@
 [submodule "ZenPacks.community.Tru64"]
 	path = ZenPacks.community.Tru64
 	url = git://github.com/zenoss/ZenPacks.community.Tru64.git
+[submodule "ZenPacks.community.Ubuntu"]
+	path = ZenPacks.community.Ubuntu
+	url = git://github.com/zenoss/ZenPacks.community.Ubuntu.git
