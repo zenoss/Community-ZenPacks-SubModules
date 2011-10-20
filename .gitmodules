@@ -508,3 +508,6 @@
 [submodule "ZenPacks.community.libvirt"]
 	path = ZenPacks.community.libvirt
 	url = git://github.com/zenoss/ZenPacks.community.libvirt.git
+[submodule "ZenPacks.community.mib_browser"]
+	path = ZenPacks.community.mib_browser
+	url = git://github.com/zenoss/ZenPacks.community.mib_browser.git
