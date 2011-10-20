@@ -283,3 +283,6 @@
 [submodule "ZenPacks.community.Fortigate"]
 	path = ZenPacks.community.Fortigate
 	url = git://github.com/zenoss/ZenPacks.community.Fortigate.git
+[submodule "ZenPacks.community.Gentoo"]
+	path = ZenPacks.community.Gentoo
+	url = git://github.com/zenoss/ZenPacks.community.Gentoo.git
