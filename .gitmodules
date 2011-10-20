@@ -544,3 +544,6 @@
 [submodule "ZenPacks.ipSLA.SLADevice"]
 	path = ZenPacks.ipSLA.SLADevice
 	url = git://github.com/zenoss/ZenPacks.ipSLA.SLADevice.git
+[submodule "ZenPacks.jschroeder.GangliaMonitor"]
+	path = ZenPacks.jschroeder.GangliaMonitor
+	url = git://github.com/zenoss/ZenPacks.jschroeder.GangliaMonitor.git
