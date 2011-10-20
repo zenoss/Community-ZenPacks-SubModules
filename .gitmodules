@@ -106,3 +106,6 @@
 [submodule "ZenPacks.Jcolon.NortelPassport"]
 	path = ZenPacks.Jcolon.NortelPassport
 	url = git://github.com/zenoss/ZenPacks.Jcolon.NortelPassport.git
+[submodule "ZenPacks.JohnBeck.power.AP7841"]
+	path = ZenPacks.JohnBeck.power.AP7841
+	url = git://github.com/zenoss/ZenPacks.JohnBeck.power.AP7841.git
