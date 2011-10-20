@@ -22,3 +22,6 @@
 [submodule "ZenPacks.AndreaConsadori.Exchange2007WMI"]
 	path = ZenPacks.AndreaConsadori.Exchange2007WMI
 	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.Exchange2007WMI.git
+[submodule "ZenPacks.AndreaConsadori.Funkwerk"]
+	path = ZenPacks.AndreaConsadori.Funkwerk
+	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.Funkwerk.git
