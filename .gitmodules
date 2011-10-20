@@ -163,3 +163,6 @@
 [submodule "ZenPacks.SCC.ShowGraphPortlet"]
 	path = ZenPacks.SCC.ShowGraphPortlet
 	url = git://github.com/zenoss/ZenPacks.SCC.ShowGraphPortlet.git
+[submodule "ZenPacks.SLSMC.DragonWave"]
+	path = ZenPacks.SLSMC.DragonWave
+	url = git://github.com/zenoss/ZenPacks.SLSMC.DragonWave.git
