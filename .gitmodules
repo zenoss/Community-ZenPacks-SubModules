@@ -523,3 +523,6 @@
 [submodule "ZenPacks.community.zenAppProfiler"]
 	path = ZenPacks.community.zenAppProfiler
 	url = git://github.com/zenoss/ZenPacks.community.zenAppProfiler.git
+[submodule "ZenPacks.dnalley.AMQPEventMonitor"]
+	path = ZenPacks.dnalley.AMQPEventMonitor
+	url = git://github.com/zenoss/ZenPacks.dnalley.AMQPEventMonitor.git
