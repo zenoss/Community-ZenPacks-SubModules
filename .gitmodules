@@ -559,3 +559,6 @@
 [submodule "ZenPacks.puzzle.VMReportXen"]
 	path = ZenPacks.puzzle.VMReportXen
 	url = git://github.com/zenoss/ZenPacks.puzzle.VMReportXen.git
+[submodule "ZenPacks.skills1st.bridge"]
+	path = ZenPacks.skills1st.bridge
+	url = git://github.com/zenoss/ZenPacks.skills1st.bridge.git
