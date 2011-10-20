@@ -454,3 +454,6 @@
 [submodule "ZenPacks.community.VMwareESXiMonitor"]
 	path = ZenPacks.community.VMwareESXiMonitor
 	url = git://github.com/zenoss/ZenPacks.community.VMwareESXiMonitor.git
+[submodule "ZenPacks.community.VMwareEsx"]
+	path = ZenPacks.community.VMwareEsx
+	url = git://github.com/zenoss/ZenPacks.community.VMwareEsx.git
