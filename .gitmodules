@@ -553,3 +553,6 @@
 [submodule "ZenPacks.nerenther.XeroxPageCounts"]
 	path = ZenPacks.nerenther.XeroxPageCounts
 	url = git://github.com/zenoss/ZenPacks.nerenther.XeroxPageCounts.git
+[submodule "ZenPacks.networking.HPProcurve"]
+	path = ZenPacks.networking.HPProcurve
+	url = git://github.com/zenoss/ZenPacks.networking.HPProcurve.git
