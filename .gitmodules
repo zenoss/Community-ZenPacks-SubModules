@@ -10,3 +10,6 @@
 [submodule "ZenPacks.AndreaConsadori.Aruba"]
 	path = ZenPacks.AndreaConsadori.Aruba
 	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.Aruba.git
+[submodule "ZenPacks.AndreaConsadori.Asterisk"]
+	path = ZenPacks.AndreaConsadori.Asterisk
+	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.Asterisk.git
