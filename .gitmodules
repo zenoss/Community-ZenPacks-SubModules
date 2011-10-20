@@ -241,3 +241,6 @@
 [submodule "ZenPacks.community.CiscoASAVPN"]
 	path = ZenPacks.community.CiscoASAVPN
 	url = git://github.com/zenoss/ZenPacks.community.CiscoASAVPN.git
+[submodule "ZenPacks.community.CiscoEnvMon"]
+	path = ZenPacks.community.CiscoEnvMon
+	url = git://github.com/zenoss/ZenPacks.community.CiscoEnvMon.git
