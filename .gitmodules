@@ -289,3 +289,6 @@
 [submodule "ZenPacks.community.GoogleSearch"]
 	path = ZenPacks.community.GoogleSearch
 	url = git://github.com/zenoss/ZenPacks.community.GoogleSearch.git
+[submodule "ZenPacks.community.HPBladeChassis"]
+	path = ZenPacks.community.HPBladeChassis
+	url = git://github.com/zenoss/ZenPacks.community.HPBladeChassis.git
