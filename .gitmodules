@@ -136,3 +136,6 @@
 [submodule "ZenPacks.Nova.Windows.SNMPPerfMonitor"]
 	path = ZenPacks.Nova.Windows.SNMPPerfMonitor
 	url = git://github.com/zenoss/ZenPacks.Nova.Windows.SNMPPerfMonitor.git
+[submodule "ZenPacks.Nova.Windows.SNMPPerfMonitorSimple"]
+	path = ZenPacks.Nova.Windows.SNMPPerfMonitorSimple
+	url = git://github.com/zenoss/ZenPacks.Nova.Windows.SNMPPerfMonitorSimple.git
