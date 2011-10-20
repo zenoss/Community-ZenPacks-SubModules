@@ -382,3 +382,6 @@
 [submodule "ZenPacks.community.NokiaIPSO"]
 	path = ZenPacks.community.NokiaIPSO
 	url = git://github.com/zenoss/ZenPacks.community.NokiaIPSO.git
+[submodule "ZenPacks.community.OSX"]
+	path = ZenPacks.community.OSX
+	url = git://github.com/zenoss/ZenPacks.community.OSX.git
