@@ -499,3 +499,6 @@
 [submodule "ZenPacks.community.eltek"]
 	path = ZenPacks.community.eltek
 	url = git://github.com/zenoss/ZenPacks.community.eltek.git
+[submodule "ZenPacks.community.f5"]
+	path = ZenPacks.community.f5
+	url = git://github.com/zenoss/ZenPacks.community.f5.git
