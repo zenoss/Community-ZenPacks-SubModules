@@ -511,3 +511,6 @@
 [submodule "ZenPacks.community.mib_browser"]
 	path = ZenPacks.community.mib_browser
 	url = git://github.com/zenoss/ZenPacks.community.mib_browser.git
+[submodule "ZenPacks.community.mib_utils"]
+	path = ZenPacks.community.mib_utils
+	url = git://github.com/zenoss/ZenPacks.community.mib_utils.git
