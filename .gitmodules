@@ -562,3 +562,6 @@
 [submodule "ZenPacks.skills1st.bridge"]
 	path = ZenPacks.skills1st.bridge
 	url = git://github.com/zenoss/ZenPacks.skills1st.bridge.git
+[submodule "ZenPacks.smbambling.ActiveDirectory"]
+	path = ZenPacks.smbambling.ActiveDirectory
+	url = git://github.com/zenoss/ZenPacks.smbambling.ActiveDirectory.git
