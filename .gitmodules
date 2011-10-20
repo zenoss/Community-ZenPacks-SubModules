@@ -556,3 +556,6 @@
 [submodule "ZenPacks.networking.HPProcurve"]
 	path = ZenPacks.networking.HPProcurve
 	url = git://github.com/zenoss/ZenPacks.networking.HPProcurve.git
+[submodule "ZenPacks.puzzle.VMReportXen"]
+	path = ZenPacks.puzzle.VMReportXen
+	url = git://github.com/zenoss/ZenPacks.puzzle.VMReportXen.git
