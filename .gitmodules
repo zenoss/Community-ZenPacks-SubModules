@@ -316,3 +316,6 @@
 [submodule "ZenPacks.community.IBMMon"]
 	path = ZenPacks.community.IBMMon
 	url = git://github.com/zenoss/ZenPacks.community.IBMMon.git
+[submodule "ZenPacks.community.IBMSystemxIMM"]
+	path = ZenPacks.community.IBMSystemxIMM
+	url = git://github.com/zenoss/ZenPacks.community.IBMSystemxIMM.git
