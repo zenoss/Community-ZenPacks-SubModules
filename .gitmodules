@@ -379,3 +379,6 @@
 [submodule "ZenPacks.community.NginxStatus"]
 	path = ZenPacks.community.NginxStatus
 	url = git://github.com/zenoss/ZenPacks.community.NginxStatus.git
+[submodule "ZenPacks.community.NokiaIPSO"]
+	path = ZenPacks.community.NokiaIPSO
+	url = git://github.com/zenoss/ZenPacks.community.NokiaIPSO.git
