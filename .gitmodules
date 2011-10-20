@@ -337,3 +337,6 @@
 [submodule "ZenPacks.community.MSSQL64Monitor"]
 	path = ZenPacks.community.MSSQL64Monitor
 	url = git://github.com/zenoss/ZenPacks.community.MSSQL64Monitor.git
+[submodule "ZenPacks.community.Mandriva"]
+	path = ZenPacks.community.Mandriva
+	url = git://github.com/zenoss/ZenPacks.community.Mandriva.git
