@@ -16,3 +16,6 @@
 [submodule "ZenPacks.AndreaConsadori.Asterisk16"]
 	path = ZenPacks.AndreaConsadori.Asterisk16
 	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.Asterisk16.git
+[submodule "ZenPacks.AndreaConsadori.Colubris"]
+	path = ZenPacks.AndreaConsadori.Colubris
+	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.Colubris.git
