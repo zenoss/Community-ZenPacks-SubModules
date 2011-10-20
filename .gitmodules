@@ -226,3 +226,6 @@
 [submodule "ZenPacks.community.AvailabilityReportPerCollection"]
 	path = ZenPacks.community.AvailabilityReportPerCollection
 	url = git://github.com/zenoss/ZenPacks.community.AvailabilityReportPerCollection.git
+[submodule "ZenPacks.community.AvailabilityReportPerGroup"]
+	path = ZenPacks.community.AvailabilityReportPerGroup
+	url = git://github.com/zenoss/ZenPacks.community.AvailabilityReportPerGroup.git
