@@ -193,3 +193,6 @@
 [submodule "ZenPacks.ZenSystems.Juniper"]
 	path = ZenPacks.ZenSystems.Juniper
 	url = git://github.com/zenoss/ZenPacks.ZenSystems.Juniper.git
+[submodule "ZenPacks.ZenSystems.olsonPower"]
+	path = ZenPacks.ZenSystems.olsonPower
+	url = git://github.com/zenoss/ZenPacks.ZenSystems.olsonPower.git
