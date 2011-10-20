@@ -583,3 +583,6 @@
 [submodule "ZenPacks.vaibhav.brocadeswitches"]
 	path = ZenPacks.vaibhav.brocadeswitches
 	url = git://github.com/zenoss/ZenPacks.vaibhav.brocadeswitches.git
+[submodule "ZenPacks.vmware.VirtualMachines"]
+	path = ZenPacks.vmware.VirtualMachines
+	url = git://github.com/zenoss/ZenPacks.vmware.VirtualMachines.git
