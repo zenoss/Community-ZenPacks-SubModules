@@ -235,3 +235,6 @@
 [submodule "ZenPacks.community.Cfengine"]
 	path = ZenPacks.community.Cfengine
 	url = git://github.com/zenoss/ZenPacks.community.Cfengine.git
+[submodule "ZenPacks.community.ChefClient"]
+	path = ZenPacks.community.ChefClient
+	url = git://github.com/zenoss/ZenPacks.community.ChefClient.git
