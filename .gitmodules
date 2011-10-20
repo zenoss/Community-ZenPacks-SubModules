@@ -157,3 +157,6 @@
 [submodule "ZenPacks.PlixerInternational.Scrutinizer"]
 	path = ZenPacks.PlixerInternational.Scrutinizer
 	url = git://github.com/zenoss/ZenPacks.PlixerInternational.Scrutinizer.git
+[submodule "ZenPacks.RomanTykhonov.OracleDB"]
+	path = ZenPacks.RomanTykhonov.OracleDB
+	url = git://github.com/zenoss/ZenPacks.RomanTykhonov.OracleDB.git
