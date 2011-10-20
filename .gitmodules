@@ -433,3 +433,6 @@
 [submodule "ZenPacks.community.SunMibMonitor"]
 	path = ZenPacks.community.SunMibMonitor
 	url = git://github.com/zenoss/ZenPacks.community.SunMibMonitor.git
+[submodule "ZenPacks.community.SwiftCM2"]
+	path = ZenPacks.community.SwiftCM2
+	url = git://github.com/zenoss/ZenPacks.community.SwiftCM2.git
