@@ -502,3 +502,6 @@
 [submodule "ZenPacks.community.f5"]
 	path = ZenPacks.community.f5
 	url = git://github.com/zenoss/ZenPacks.community.f5.git
+[submodule "ZenPacks.community.groupreporting"]
+	path = ZenPacks.community.groupreporting
+	url = git://github.com/zenoss/ZenPacks.community.groupreporting.git
