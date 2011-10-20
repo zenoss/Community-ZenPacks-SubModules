@@ -487,3 +487,6 @@
 [submodule "ZenPacks.community.ZenODBC"]
 	path = ZenPacks.community.ZenODBC
 	url = git://github.com/zenoss/ZenPacks.community.ZenODBC.git
+[submodule "ZenPacks.community.ZeusLoadBalancer"]
+	path = ZenPacks.community.ZeusLoadBalancer
+	url = git://github.com/zenoss/ZenPacks.community.ZeusLoadBalancer.git
