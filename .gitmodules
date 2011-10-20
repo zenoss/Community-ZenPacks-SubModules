@@ -166,3 +166,6 @@
 [submodule "ZenPacks.SLSMC.DragonWave"]
 	path = ZenPacks.SLSMC.DragonWave
 	url = git://github.com/zenoss/ZenPacks.SLSMC.DragonWave.git
+[submodule "ZenPacks.TijmenvandenBrink.JuniperIVE"]
+	path = ZenPacks.TijmenvandenBrink.JuniperIVE
+	url = git://github.com/zenoss/ZenPacks.TijmenvandenBrink.JuniperIVE.git
