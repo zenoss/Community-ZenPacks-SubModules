@@ -478,3 +478,6 @@
 [submodule "ZenPacks.community.WMIPerf_MSSQL"]
 	path = ZenPacks.community.WMIPerf_MSSQL
 	url = git://github.com/zenoss/ZenPacks.community.WMIPerf_MSSQL.git
+[submodule "ZenPacks.community.WMIPerf_TerminalServer"]
+	path = ZenPacks.community.WMIPerf_TerminalServer
+	url = git://github.com/zenoss/ZenPacks.community.WMIPerf_TerminalServer.git
