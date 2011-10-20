@@ -25,3 +25,6 @@
 [submodule "ZenPacks.AndreaConsadori.Funkwerk"]
 	path = ZenPacks.AndreaConsadori.Funkwerk
 	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.Funkwerk.git
+[submodule "ZenPacks.AndreaConsadori.Huawei"]
+	path = ZenPacks.AndreaConsadori.Huawei
+	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.Huawei.git
