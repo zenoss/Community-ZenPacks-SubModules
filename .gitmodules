@@ -82,3 +82,6 @@
 [submodule "ZenPacks.Hyper.virtualMachines"]
 	path = ZenPacks.Hyper.virtualMachines
 	url = git://github.com/zenoss/ZenPacks.Hyper.virtualMachines.git
+[submodule "ZenPacks.Imas.BlueCoat"]
+	path = ZenPacks.Imas.BlueCoat
+	url = git://github.com/zenoss/ZenPacks.Imas.BlueCoat.git
