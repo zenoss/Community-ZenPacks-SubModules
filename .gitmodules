@@ -439,3 +439,6 @@
 [submodule "ZenPacks.community.TokyoTyrant"]
 	path = ZenPacks.community.TokyoTyrant
 	url = git://github.com/zenoss/ZenPacks.community.TokyoTyrant.git
+[submodule "ZenPacks.community.Tru64"]
+	path = ZenPacks.community.Tru64
+	url = git://github.com/zenoss/ZenPacks.community.Tru64.git
