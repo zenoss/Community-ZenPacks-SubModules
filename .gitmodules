@@ -394,3 +394,6 @@
 [submodule "ZenPacks.community.Perfmon"]
 	path = ZenPacks.community.Perfmon
 	url = git://github.com/zenoss/ZenPacks.community.Perfmon.git
+[submodule "ZenPacks.community.PgSQLMon_ODBC"]
+	path = ZenPacks.community.PgSQLMon_ODBC
+	url = git://github.com/zenoss/ZenPacks.community.PgSQLMon_ODBC.git
