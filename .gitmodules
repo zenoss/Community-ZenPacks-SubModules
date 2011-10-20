@@ -490,3 +490,6 @@
 [submodule "ZenPacks.community.ZeusLoadBalancer"]
 	path = ZenPacks.community.ZeusLoadBalancer
 	url = git://github.com/zenoss/ZenPacks.community.ZeusLoadBalancer.git
+[submodule "ZenPacks.community.aggregateAPCpduAB"]
+	path = ZenPacks.community.aggregateAPCpduAB
+	url = git://github.com/zenoss/ZenPacks.community.aggregateAPCpduAB.git
