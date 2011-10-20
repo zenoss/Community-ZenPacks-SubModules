@@ -319,3 +319,6 @@
 [submodule "ZenPacks.community.IBMSystemxIMM"]
 	path = ZenPacks.community.IBMSystemxIMM
 	url = git://github.com/zenoss/ZenPacks.community.IBMSystemxIMM.git
+[submodule "ZenPacks.community.InterfaceGraphs"]
+	path = ZenPacks.community.InterfaceGraphs
+	url = git://github.com/zenoss/ZenPacks.community.InterfaceGraphs.git
