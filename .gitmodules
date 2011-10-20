@@ -532,3 +532,6 @@
 [submodule "ZenPacks.example.Techniques"]
 	path = ZenPacks.example.Techniques
 	url = git://github.com/zenoss/ZenPacks.example.Techniques.git
+[submodule "ZenPacks.fdeckert.myDeviceIssues"]
+	path = ZenPacks.fdeckert.myDeviceIssues
+	url = git://github.com/zenoss/ZenPacks.fdeckert.myDeviceIssues.git
