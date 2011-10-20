@@ -277,3 +277,6 @@
 [submodule "ZenPacks.community.Fedora"]
 	path = ZenPacks.community.Fedora
 	url = git://github.com/zenoss/ZenPacks.community.Fedora.git
+[submodule "ZenPacks.community.FormulaDataSource"]
+	path = ZenPacks.community.FormulaDataSource
+	url = git://github.com/zenoss/ZenPacks.community.FormulaDataSource.git
