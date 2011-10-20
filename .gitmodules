@@ -181,3 +181,6 @@
 [submodule "ZenPacks.ZenSystems.ApcAts"]
 	path = ZenPacks.ZenSystems.ApcAts
 	url = git://github.com/zenoss/ZenPacks.ZenSystems.ApcAts.git
+[submodule "ZenPacks.ZenSystems.ApcPdu"]
+	path = ZenPacks.ZenSystems.ApcPdu
+	url = git://github.com/zenoss/ZenPacks.ZenSystems.ApcPdu.git
