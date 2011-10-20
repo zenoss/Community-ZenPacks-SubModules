@@ -103,3 +103,6 @@
 [submodule "ZenPacks.Jcolon.NortelMibs"]
 	path = ZenPacks.Jcolon.NortelMibs
 	url = git://github.com/zenoss/ZenPacks.Jcolon.NortelMibs.git
+[submodule "ZenPacks.Jcolon.NortelPassport"]
+	path = ZenPacks.Jcolon.NortelPassport
+	url = git://github.com/zenoss/ZenPacks.Jcolon.NortelPassport.git
