@@ -565,3 +565,6 @@
 [submodule "ZenPacks.smbambling.ActiveDirectory"]
 	path = ZenPacks.smbambling.ActiveDirectory
 	url = git://github.com/zenoss/ZenPacks.smbambling.ActiveDirectory.git
+[submodule "ZenPacks.sodonnell.MACReport"]
+	path = ZenPacks.sodonnell.MACReport
+	url = git://github.com/zenoss/ZenPacks.sodonnell.MACReport.git
