@@ -211,3 +211,6 @@
 [submodule "ZenPacks.chudler.GoogleAppEngine"]
 	path = ZenPacks.chudler.GoogleAppEngine
 	url = git://github.com/zenoss/ZenPacks.chudler.GoogleAppEngine.git
+[submodule "ZenPacks.chudler.SentryCDU"]
+	path = ZenPacks.chudler.SentryCDU
+	url = git://github.com/zenoss/ZenPacks.chudler.SentryCDU.git
