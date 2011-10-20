@@ -88,3 +88,6 @@
 [submodule "ZenPacks.Imas.SmsFunctions"]
 	path = ZenPacks.Imas.SmsFunctions
 	url = git://github.com/zenoss/ZenPacks.Imas.SmsFunctions.git
+[submodule "ZenPacks.Ironport.PerformanceGraphs"]
+	path = ZenPacks.Ironport.PerformanceGraphs
+	url = git://github.com/zenoss/ZenPacks.Ironport.PerformanceGraphs.git
