@@ -520,3 +520,6 @@
 [submodule "ZenPacks.community.puppet"]
 	path = ZenPacks.community.puppet
 	url = git://github.com/zenoss/ZenPacks.community.puppet.git
+[submodule "ZenPacks.community.zenAppProfiler"]
+	path = ZenPacks.community.zenAppProfiler
+	url = git://github.com/zenoss/ZenPacks.community.zenAppProfiler.git
