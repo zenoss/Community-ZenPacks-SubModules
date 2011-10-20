@@ -460,3 +460,6 @@
 [submodule "ZenPacks.community.VirtualIP"]
 	path = ZenPacks.community.VirtualIP
 	url = git://github.com/zenoss/ZenPacks.community.VirtualIP.git
+[submodule "ZenPacks.community.WBEMDataSource"]
+	path = ZenPacks.community.WBEMDataSource
+	url = git://github.com/zenoss/ZenPacks.community.WBEMDataSource.git
