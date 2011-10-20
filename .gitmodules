@@ -355,3 +355,6 @@
 [submodule "ZenPacks.community.MySQLMon_ODBC"]
 	path = ZenPacks.community.MySQLMon_ODBC
 	url = git://github.com/zenoss/ZenPacks.community.MySQLMon_ODBC.git
+[submodule "ZenPacks.community.MySQLSSH"]
+	path = ZenPacks.community.MySQLSSH
+	url = git://github.com/zenoss/ZenPacks.community.MySQLSSH.git
