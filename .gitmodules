@@ -127,3 +127,6 @@
 [submodule "ZenPacks.Nova.Cisco.Mibs"]
 	path = ZenPacks.Nova.Cisco.Mibs
 	url = git://github.com/zenoss/ZenPacks.Nova.Cisco.Mibs.git
+[submodule "ZenPacks.Nova.Collector.Tool"]
+	path = ZenPacks.Nova.Collector.Tool
+	url = git://github.com/zenoss/ZenPacks.Nova.Collector.Tool.git
