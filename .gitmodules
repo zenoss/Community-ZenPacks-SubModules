@@ -178,3 +178,6 @@
 [submodule "ZenPacks.Veritas.Netbackup"]
 	path = ZenPacks.Veritas.Netbackup
 	url = git://github.com/zenoss/ZenPacks.Veritas.Netbackup.git
+[submodule "ZenPacks.ZenSystems.ApcAts"]
+	path = ZenPacks.ZenSystems.ApcAts
+	url = git://github.com/zenoss/ZenPacks.ZenSystems.ApcAts.git
