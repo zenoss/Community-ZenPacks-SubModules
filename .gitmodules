@@ -91,3 +91,6 @@
 [submodule "ZenPacks.Ironport.PerformanceGraphs"]
 	path = ZenPacks.Ironport.PerformanceGraphs
 	url = git://github.com/zenoss/ZenPacks.Ironport.PerformanceGraphs.git
+[submodule "ZenPacks.Iwillfearnoevil.Domain"]
+	path = ZenPacks.Iwillfearnoevil.Domain
+	url = git://github.com/zenoss/ZenPacks.Iwillfearnoevil.Domain.git
