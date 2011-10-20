@@ -304,3 +304,6 @@
 [submodule "ZenPacks.community.HPSIMMonitor"]
 	path = ZenPacks.community.HPSIMMonitor
 	url = git://github.com/zenoss/ZenPacks.community.HPSIMMonitor.git
+[submodule "ZenPacks.community.HPTemperatureSensors"]
+	path = ZenPacks.community.HPTemperatureSensors
+	url = git://github.com/zenoss/ZenPacks.community.HPTemperatureSensors.git
