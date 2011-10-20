@@ -205,3 +205,6 @@
 [submodule "ZenPacks.chitambira.mgeUPS"]
 	path = ZenPacks.chitambira.mgeUPS
 	url = git://github.com/zenoss/ZenPacks.chitambira.mgeUPS.git
+[submodule "ZenPacks.chudler.AlterPathCS"]
+	path = ZenPacks.chudler.AlterPathCS
+	url = git://github.com/zenoss/ZenPacks.chudler.AlterPathCS.git
