@@ -295,3 +295,6 @@
 [submodule "ZenPacks.community.HPEVAMon"]
 	path = ZenPacks.community.HPEVAMon
 	url = git://github.com/zenoss/ZenPacks.community.HPEVAMon.git
+[submodule "ZenPacks.community.HPMon"]
+	path = ZenPacks.community.HPMon
+	url = git://github.com/zenoss/ZenPacks.community.HPMon.git
