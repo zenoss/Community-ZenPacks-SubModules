@@ -214,3 +214,6 @@
 [submodule "ZenPacks.chudler.SentryCDU"]
 	path = ZenPacks.chudler.SentryCDU
 	url = git://github.com/zenoss/ZenPacks.chudler.SentryCDU.git
+[submodule "ZenPacks.chudler.redis"]
+	path = ZenPacks.chudler.redis
+	url = git://github.com/zenoss/ZenPacks.chudler.redis.git
