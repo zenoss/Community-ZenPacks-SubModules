@@ -496,3 +496,6 @@
 [submodule "ZenPacks.community.deviceAdvDetail"]
 	path = ZenPacks.community.deviceAdvDetail
 	url = git://github.com/zenoss/ZenPacks.community.deviceAdvDetail.git
+[submodule "ZenPacks.community.eltek"]
+	path = ZenPacks.community.eltek
+	url = git://github.com/zenoss/ZenPacks.community.eltek.git
