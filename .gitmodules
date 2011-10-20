@@ -391,3 +391,6 @@
 [submodule "ZenPacks.community.OracleMon"]
 	path = ZenPacks.community.OracleMon
 	url = git://github.com/zenoss/ZenPacks.community.OracleMon.git
+[submodule "ZenPacks.community.Perfmon"]
+	path = ZenPacks.community.Perfmon
+	url = git://github.com/zenoss/ZenPacks.community.Perfmon.git
