@@ -568,3 +568,6 @@
 [submodule "ZenPacks.sodonnell.MACReport"]
 	path = ZenPacks.sodonnell.MACReport
 	url = git://github.com/zenoss/ZenPacks.sodonnell.MACReport.git
+[submodule "ZenPacks.sodonnell.TransformReport"]
+	path = ZenPacks.sodonnell.TransformReport
+	url = git://github.com/zenoss/ZenPacks.sodonnell.TransformReport.git
