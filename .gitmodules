@@ -196,3 +196,6 @@
 [submodule "ZenPacks.ZenSystems.olsonPower"]
 	path = ZenPacks.ZenSystems.olsonPower
 	url = git://github.com/zenoss/ZenPacks.ZenSystems.olsonPower.git
+[submodule "ZenPacks.altea.SQLServer"]
+	path = ZenPacks.altea.SQLServer
+	url = git://github.com/zenoss/ZenPacks.altea.SQLServer.git
