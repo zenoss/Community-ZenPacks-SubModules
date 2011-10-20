@@ -268,3 +268,6 @@
 [submodule "ZenPacks.community.EmailPing"]
 	path = ZenPacks.community.EmailPing
 	url = git://github.com/zenoss/ZenPacks.community.EmailPing.git
+[submodule "ZenPacks.community.EventGraph.BySeverity"]
+	path = ZenPacks.community.EventGraph.BySeverity
+	url = git://github.com/zenoss/ZenPacks.community.EventGraph.BySeverity.git
