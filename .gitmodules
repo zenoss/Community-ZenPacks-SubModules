@@ -220,3 +220,6 @@
 [submodule "ZenPacks.chudler.xmppBot"]
 	path = ZenPacks.chudler.xmppBot
 	url = git://github.com/zenoss/ZenPacks.chudler.xmppBot.git
+[submodule "ZenPacks.community.AIX"]
+	path = ZenPacks.community.AIX
+	url = git://github.com/zenoss/ZenPacks.community.AIX.git
