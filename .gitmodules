@@ -250,3 +250,6 @@
 [submodule "ZenPacks.community.ComponentsCleaner"]
 	path = ZenPacks.community.ComponentsCleaner
 	url = git://github.com/zenoss/ZenPacks.community.ComponentsCleaner.git
+[submodule "ZenPacks.community.DellEqualLogicMon"]
+	path = ZenPacks.community.DellEqualLogicMon
+	url = git://github.com/zenoss/ZenPacks.community.DellEqualLogicMon.git
