@@ -358,3 +358,6 @@
 [submodule "ZenPacks.community.MySQLSSH"]
 	path = ZenPacks.community.MySQLSSH
 	url = git://github.com/zenoss/ZenPacks.community.MySQLSSH.git
+[submodule "ZenPacks.community.NWMon"]
+	path = ZenPacks.community.NWMon
+	url = git://github.com/zenoss/ZenPacks.community.NWMon.git
