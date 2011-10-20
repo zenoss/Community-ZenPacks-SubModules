@@ -169,3 +169,6 @@
 [submodule "ZenPacks.TijmenvandenBrink.JuniperIVE"]
 	path = ZenPacks.TijmenvandenBrink.JuniperIVE
 	url = git://github.com/zenoss/ZenPacks.TijmenvandenBrink.JuniperIVE.git
+[submodule "ZenPacks.TijmenvandenBrink.Riverbed"]
+	path = ZenPacks.TijmenvandenBrink.Riverbed
+	url = git://github.com/zenoss/ZenPacks.TijmenvandenBrink.Riverbed.git
