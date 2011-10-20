@@ -328,3 +328,6 @@
 [submodule "ZenPacks.community.LLDP"]
 	path = ZenPacks.community.LLDP
 	url = git://github.com/zenoss/ZenPacks.community.LLDP.git
+[submodule "ZenPacks.community.LinMon_WBEM"]
+	path = ZenPacks.community.LinMon_WBEM
+	url = git://github.com/zenoss/ZenPacks.community.LinMon_WBEM.git
