@@ -526,3 +526,6 @@
 [submodule "ZenPacks.dnalley.AMQPEventMonitor"]
 	path = ZenPacks.dnalley.AMQPEventMonitor
 	url = git://github.com/zenoss/ZenPacks.dnalley.AMQPEventMonitor.git
+[submodule "ZenPacks.dnalley.VMwareESXi"]
+	path = ZenPacks.dnalley.VMwareESXi
+	url = git://github.com/zenoss/ZenPacks.dnalley.VMwareESXi.git
