@@ -199,3 +199,6 @@
 [submodule "ZenPacks.altea.SQLServer"]
 	path = ZenPacks.altea.SQLServer
 	url = git://github.com/zenoss/ZenPacks.altea.SQLServer.git
+[submodule "ZenPacks.atrawog.Brocade"]
+	path = ZenPacks.atrawog.Brocade
+	url = git://github.com/zenoss/ZenPacks.atrawog.Brocade.git
