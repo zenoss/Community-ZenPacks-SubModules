@@ -208,3 +208,6 @@
 [submodule "ZenPacks.chudler.AlterPathCS"]
 	path = ZenPacks.chudler.AlterPathCS
 	url = git://github.com/zenoss/ZenPacks.chudler.AlterPathCS.git
+[submodule "ZenPacks.chudler.GoogleAppEngine"]
+	path = ZenPacks.chudler.GoogleAppEngine
+	url = git://github.com/zenoss/ZenPacks.chudler.GoogleAppEngine.git
