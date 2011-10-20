@@ -97,3 +97,6 @@
 [submodule "ZenPacks.Iwillfearnoevil.Powernet7930"]
 	path = ZenPacks.Iwillfearnoevil.Powernet7930
 	url = git://github.com/zenoss/ZenPacks.Iwillfearnoevil.Powernet7930.git
+[submodule "ZenPacks.Iwillfearnoevil.Powernet9225"]
+	path = ZenPacks.Iwillfearnoevil.Powernet9225
+	url = git://github.com/zenoss/ZenPacks.Iwillfearnoevil.Powernet9225.git
