@@ -154,3 +154,6 @@
 [submodule "ZenPacks.Peak6JC.WeatherGoose"]
 	path = ZenPacks.Peak6JC.WeatherGoose
 	url = git://github.com/zenoss/ZenPacks.Peak6JC.WeatherGoose.git
+[submodule "ZenPacks.PlixerInternational.Scrutinizer"]
+	path = ZenPacks.PlixerInternational.Scrutinizer
+	url = git://github.com/zenoss/ZenPacks.PlixerInternational.Scrutinizer.git
