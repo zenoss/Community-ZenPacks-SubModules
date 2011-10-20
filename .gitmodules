@@ -307,3 +307,6 @@
 [submodule "ZenPacks.community.HPTemperatureSensors"]
 	path = ZenPacks.community.HPTemperatureSensors
 	url = git://github.com/zenoss/ZenPacks.community.HPTemperatureSensors.git
+[submodule "ZenPacks.community.HPUXMonitor"]
+	path = ZenPacks.community.HPUXMonitor
+	url = git://github.com/zenoss/ZenPacks.community.HPUXMonitor.git
