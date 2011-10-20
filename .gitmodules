@@ -346,3 +346,6 @@
 [submodule "ZenPacks.community.Memcached_Template"]
 	path = ZenPacks.community.Memcached_Template
 	url = git://github.com/zenoss/ZenPacks.community.Memcached_Template.git
+[submodule "ZenPacks.community.MsSQLMon_ODBC"]
+	path = ZenPacks.community.MsSQLMon_ODBC
+	url = git://github.com/zenoss/ZenPacks.community.MsSQLMon_ODBC.git
