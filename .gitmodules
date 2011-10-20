@@ -481,3 +481,6 @@
 [submodule "ZenPacks.community.WMIPerf_TerminalServer"]
 	path = ZenPacks.community.WMIPerf_TerminalServer
 	url = git://github.com/zenoss/ZenPacks.community.WMIPerf_TerminalServer.git
+[submodule "ZenPacks.community.WMIPerf_Windows"]
+	path = ZenPacks.community.WMIPerf_Windows
+	url = git://github.com/zenoss/ZenPacks.community.WMIPerf_Windows.git
