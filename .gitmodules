@@ -262,3 +262,6 @@
 [submodule "ZenPacks.community.DellSNMPTransforms"]
 	path = ZenPacks.community.DellSNMPTransforms
 	url = git://github.com/zenoss/ZenPacks.community.DellSNMPTransforms.git
+[submodule "ZenPacks.community.DistributedCollectors"]
+	path = ZenPacks.community.DistributedCollectors
+	url = git://github.com/zenoss/ZenPacks.community.DistributedCollectors.git
