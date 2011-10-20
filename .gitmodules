@@ -445,3 +445,6 @@
 [submodule "ZenPacks.community.Ubuntu"]
 	path = ZenPacks.community.Ubuntu
 	url = git://github.com/zenoss/ZenPacks.community.Ubuntu.git
+[submodule "ZenPacks.community.VMwareDataSource"]
+	path = ZenPacks.community.VMwareDataSource
+	url = git://github.com/zenoss/ZenPacks.community.VMwareDataSource.git
