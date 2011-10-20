@@ -274,3 +274,6 @@
 [submodule "ZenPacks.community.FDS"]
 	path = ZenPacks.community.FDS
 	url = git://github.com/zenoss/ZenPacks.community.FDS.git
+[submodule "ZenPacks.community.Fedora"]
+	path = ZenPacks.community.Fedora
+	url = git://github.com/zenoss/ZenPacks.community.Fedora.git
