@@ -112,3 +112,6 @@
 [submodule "ZenPacks.Lais.Asterisk"]
 	path = ZenPacks.Lais.Asterisk
 	url = git://github.com/zenoss/ZenPacks.Lais.Asterisk.git
+[submodule "ZenPacks.LearningObjects.PostgresqlMonitor"]
+	path = ZenPacks.LearningObjects.PostgresqlMonitor
+	url = git://github.com/zenoss/ZenPacks.LearningObjects.PostgresqlMonitor.git
