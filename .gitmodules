@@ -343,3 +343,6 @@
 [submodule "ZenPacks.community.Memcached"]
 	path = ZenPacks.community.Memcached
 	url = git://github.com/zenoss/ZenPacks.community.Memcached.git
+[submodule "ZenPacks.community.Memcached_Template"]
+	path = ZenPacks.community.Memcached_Template
+	url = git://github.com/zenoss/ZenPacks.community.Memcached_Template.git
