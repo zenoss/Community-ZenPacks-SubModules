@@ -286,3 +286,6 @@
 [submodule "ZenPacks.community.Gentoo"]
 	path = ZenPacks.community.Gentoo
 	url = git://github.com/zenoss/ZenPacks.community.Gentoo.git
+[submodule "ZenPacks.community.GoogleSearch"]
+	path = ZenPacks.community.GoogleSearch
+	url = git://github.com/zenoss/ZenPacks.community.GoogleSearch.git
