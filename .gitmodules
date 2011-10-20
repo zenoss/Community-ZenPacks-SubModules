@@ -397,3 +397,6 @@
 [submodule "ZenPacks.community.PgSQLMon_ODBC"]
 	path = ZenPacks.community.PgSQLMon_ODBC
 	url = git://github.com/zenoss/ZenPacks.community.PgSQLMon_ODBC.git
+[submodule "ZenPacks.community.PointThreshold"]
+	path = ZenPacks.community.PointThreshold
+	url = git://github.com/zenoss/ZenPacks.community.PointThreshold.git
