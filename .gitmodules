@@ -331,3 +331,6 @@
 [submodule "ZenPacks.community.LinMon_WBEM"]
 	path = ZenPacks.community.LinMon_WBEM
 	url = git://github.com/zenoss/ZenPacks.community.LinMon_WBEM.git
+[submodule "ZenPacks.community.LinuxMonitorAddOn"]
+	path = ZenPacks.community.LinuxMonitorAddOn
+	url = git://github.com/zenoss/ZenPacks.community.LinuxMonitorAddOn.git
