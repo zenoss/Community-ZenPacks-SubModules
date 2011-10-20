@@ -412,3 +412,6 @@
 [submodule "ZenPacks.community.RDBMS"]
 	path = ZenPacks.community.RDBMS
 	url = git://github.com/zenoss/ZenPacks.community.RDBMS.git
+[submodule "ZenPacks.community.RangeThreshold"]
+	path = ZenPacks.community.RangeThreshold
+	url = git://github.com/zenoss/ZenPacks.community.RangeThreshold.git
