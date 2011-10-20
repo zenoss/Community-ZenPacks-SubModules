@@ -58,3 +58,6 @@
 [submodule "ZenPacks.AndreaConsadori.UbiquitiNanostation"]
 	path = ZenPacks.AndreaConsadori.UbiquitiNanostation
 	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.UbiquitiNanostation.git
+[submodule "ZenPacks.BlakeDrager.Bridgewave"]
+	path = ZenPacks.BlakeDrager.Bridgewave
+	url = git://github.com/zenoss/ZenPacks.BlakeDrager.Bridgewave.git
