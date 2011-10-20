@@ -418,3 +418,6 @@
 [submodule "ZenPacks.community.SNMPLocation"]
 	path = ZenPacks.community.SNMPLocation
 	url = git://github.com/zenoss/ZenPacks.community.SNMPLocation.git
+[submodule "ZenPacks.community.SQLDataSource"]
+	path = ZenPacks.community.SQLDataSource
+	url = git://github.com/zenoss/ZenPacks.community.SQLDataSource.git
