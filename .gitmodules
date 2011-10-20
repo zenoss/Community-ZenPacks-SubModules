@@ -46,3 +46,6 @@
 [submodule "ZenPacks.AndreaConsadori.Motorola"]
 	path = ZenPacks.AndreaConsadori.Motorola
 	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.Motorola.git
+[submodule "ZenPacks.AndreaConsadori.Netasq"]
+	path = ZenPacks.AndreaConsadori.Netasq
+	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.Netasq.git
