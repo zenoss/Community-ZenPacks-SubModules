@@ -409,3 +409,6 @@
 [submodule "ZenPacks.community.PrinterToner"]
 	path = ZenPacks.community.PrinterToner
 	url = git://github.com/zenoss/ZenPacks.community.PrinterToner.git
+[submodule "ZenPacks.community.RDBMS"]
+	path = ZenPacks.community.RDBMS
+	url = git://github.com/zenoss/ZenPacks.community.RDBMS.git
