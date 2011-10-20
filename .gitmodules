@@ -160,3 +160,6 @@
 [submodule "ZenPacks.RomanTykhonov.OracleDB"]
 	path = ZenPacks.RomanTykhonov.OracleDB
 	url = git://github.com/zenoss/ZenPacks.RomanTykhonov.OracleDB.git
+[submodule "ZenPacks.SCC.ShowGraphPortlet"]
+	path = ZenPacks.SCC.ShowGraphPortlet
+	url = git://github.com/zenoss/ZenPacks.SCC.ShowGraphPortlet.git
