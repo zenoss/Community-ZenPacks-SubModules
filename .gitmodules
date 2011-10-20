@@ -322,3 +322,6 @@
 [submodule "ZenPacks.community.InterfaceGraphs"]
 	path = ZenPacks.community.InterfaceGraphs
 	url = git://github.com/zenoss/ZenPacks.community.InterfaceGraphs.git
+[submodule "ZenPacks.community.JuniperPerformance"]
+	path = ZenPacks.community.JuniperPerformance
+	url = git://github.com/zenoss/ZenPacks.community.JuniperPerformance.git
