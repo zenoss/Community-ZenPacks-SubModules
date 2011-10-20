@@ -172,3 +172,6 @@
 [submodule "ZenPacks.TijmenvandenBrink.Riverbed"]
 	path = ZenPacks.TijmenvandenBrink.Riverbed
 	url = git://github.com/zenoss/ZenPacks.TijmenvandenBrink.Riverbed.git
+[submodule "ZenPacks.TwoNMS.PrinterMIB"]
+	path = ZenPacks.TwoNMS.PrinterMIB
+	url = git://github.com/zenoss/ZenPacks.TwoNMS.PrinterMIB.git
