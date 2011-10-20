@@ -223,3 +223,6 @@
 [submodule "ZenPacks.community.AIX"]
 	path = ZenPacks.community.AIX
 	url = git://github.com/zenoss/ZenPacks.community.AIX.git
+[submodule "ZenPacks.community.AvailabilityReportPerCollection"]
+	path = ZenPacks.community.AvailabilityReportPerCollection
+	url = git://github.com/zenoss/ZenPacks.community.AvailabilityReportPerCollection.git
