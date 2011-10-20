@@ -67,3 +67,6 @@
 [submodule "ZenPacks.BlakeDrager.fping"]
 	path = ZenPacks.BlakeDrager.fping
 	url = git://github.com/zenoss/ZenPacks.BlakeDrager.fping.git
+[submodule "ZenPacks.DrD_Studios.BlueArc"]
+	path = ZenPacks.DrD_Studios.BlueArc
+	url = git://github.com/zenoss/ZenPacks.DrD_Studios.BlueArc.git
