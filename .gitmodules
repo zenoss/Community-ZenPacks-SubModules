@@ -400,3 +400,6 @@
 [submodule "ZenPacks.community.PointThreshold"]
 	path = ZenPacks.community.PointThreshold
 	url = git://github.com/zenoss/ZenPacks.community.PointThreshold.git
+[submodule "ZenPacks.community.PowerConnect"]
+	path = ZenPacks.community.PowerConnect
+	url = git://github.com/zenoss/ZenPacks.community.PowerConnect.git
