@@ -79,3 +79,6 @@
 [submodule "ZenPacks.HP.Proliant.MIBs"]
 	path = ZenPacks.HP.Proliant.MIBs
 	url = git://github.com/zenoss/ZenPacks.HP.Proliant.MIBs.git
+[submodule "ZenPacks.Hyper.virtualMachines"]
+	path = ZenPacks.Hyper.virtualMachines
+	url = git://github.com/zenoss/ZenPacks.Hyper.virtualMachines.git
