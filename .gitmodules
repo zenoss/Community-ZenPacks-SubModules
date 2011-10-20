@@ -427,3 +427,6 @@
 [submodule "ZenPacks.community.SquidMon"]
 	path = ZenPacks.community.SquidMon
 	url = git://github.com/zenoss/ZenPacks.community.SquidMon.git
+[submodule "ZenPacks.community.SuSE"]
+	path = ZenPacks.community.SuSE
+	url = git://github.com/zenoss/ZenPacks.community.SuSE.git
