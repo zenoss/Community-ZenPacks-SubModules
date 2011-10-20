@@ -550,3 +550,6 @@
 [submodule "ZenPacks.mcgov.IBMMQMonitor"]
 	path = ZenPacks.mcgov.IBMMQMonitor
 	url = git://github.com/zenoss/ZenPacks.mcgov.IBMMQMonitor.git
+[submodule "ZenPacks.nerenther.XeroxPageCounts"]
+	path = ZenPacks.nerenther.XeroxPageCounts
+	url = git://github.com/zenoss/ZenPacks.nerenther.XeroxPageCounts.git
