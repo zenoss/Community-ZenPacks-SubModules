@@ -118,3 +118,6 @@
 [submodule "ZenPacks.MJW.BarracudaMonitor"]
 	path = ZenPacks.MJW.BarracudaMonitor
 	url = git://github.com/zenoss/ZenPacks.MJW.BarracudaMonitor.git
+[submodule "ZenPacks.Nagios.CheckPing"]
+	path = ZenPacks.Nagios.CheckPing
+	url = git://github.com/zenoss/ZenPacks.Nagios.CheckPing.git
