@@ -34,3 +34,6 @@
 [submodule "ZenPacks.AndreaConsadori.LenovoRDThinkServer"]
 	path = ZenPacks.AndreaConsadori.LenovoRDThinkServer
 	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.LenovoRDThinkServer.git
+[submodule "ZenPacks.AndreaConsadori.MRV"]
+	path = ZenPacks.AndreaConsadori.MRV
+	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.MRV.git
