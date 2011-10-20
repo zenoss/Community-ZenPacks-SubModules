@@ -457,3 +457,6 @@
 [submodule "ZenPacks.community.VMwareEsx"]
 	path = ZenPacks.community.VMwareEsx
 	url = git://github.com/zenoss/ZenPacks.community.VMwareEsx.git
+[submodule "ZenPacks.community.VirtualIP"]
+	path = ZenPacks.community.VirtualIP
+	url = git://github.com/zenoss/ZenPacks.community.VirtualIP.git
