@@ -142,3 +142,6 @@
 [submodule "ZenPacks.OndrejJakubcik.OracleHwMonitoring"]
 	path = ZenPacks.OndrejJakubcik.OracleHwMonitoring
 	url = git://github.com/zenoss/ZenPacks.OndrejJakubcik.OracleHwMonitoring.git
+[submodule "ZenPacks.Opengear.ConsoleServer"]
+	path = ZenPacks.Opengear.ConsoleServer
+	url = git://github.com/zenoss/ZenPacks.Opengear.ConsoleServer.git
