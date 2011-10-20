@@ -61,3 +61,6 @@
 [submodule "ZenPacks.BlakeDrager.Bridgewave"]
 	path = ZenPacks.BlakeDrager.Bridgewave
 	url = git://github.com/zenoss/ZenPacks.BlakeDrager.Bridgewave.git
+[submodule "ZenPacks.BlakeDrager.JuniperJSeries.Performance"]
+	path = ZenPacks.BlakeDrager.JuniperJSeries.Performance
+	url = git://github.com/zenoss/ZenPacks.BlakeDrager.JuniperJSeries.Performance.git
