@@ -484,3 +484,6 @@
 [submodule "ZenPacks.community.WMIPerf_Windows"]
 	path = ZenPacks.community.WMIPerf_Windows
 	url = git://github.com/zenoss/ZenPacks.community.WMIPerf_Windows.git
+[submodule "ZenPacks.community.ZenODBC"]
+	path = ZenPacks.community.ZenODBC
+	url = git://github.com/zenoss/ZenPacks.community.ZenODBC.git
