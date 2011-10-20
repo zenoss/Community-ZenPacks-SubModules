@@ -517,3 +517,6 @@
 [submodule "ZenPacks.community.powerware"]
 	path = ZenPacks.community.powerware
 	url = git://github.com/zenoss/ZenPacks.community.powerware.git
+[submodule "ZenPacks.community.puppet"]
+	path = ZenPacks.community.puppet
+	url = git://github.com/zenoss/ZenPacks.community.puppet.git
