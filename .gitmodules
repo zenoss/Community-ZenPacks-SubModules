@@ -244,3 +244,6 @@
 [submodule "ZenPacks.community.CiscoEnvMon"]
 	path = ZenPacks.community.CiscoEnvMon
 	url = git://github.com/zenoss/ZenPacks.community.CiscoEnvMon.git
+[submodule "ZenPacks.community.Clariion"]
+	path = ZenPacks.community.Clariion
+	url = git://github.com/zenoss/ZenPacks.community.Clariion.git
