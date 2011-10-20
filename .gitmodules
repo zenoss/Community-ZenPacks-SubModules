@@ -472,3 +472,6 @@
 [submodule "ZenPacks.community.WMIPerf_Exchange2003"]
 	path = ZenPacks.community.WMIPerf_Exchange2003
 	url = git://github.com/zenoss/ZenPacks.community.WMIPerf_Exchange2003.git
+[submodule "ZenPacks.community.WMIPerf_IIS6"]
+	path = ZenPacks.community.WMIPerf_IIS6
+	url = git://github.com/zenoss/ZenPacks.community.WMIPerf_IIS6.git
