@@ -37,3 +37,6 @@
 [submodule "ZenPacks.AndreaConsadori.MRV"]
 	path = ZenPacks.AndreaConsadori.MRV
 	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.MRV.git
+[submodule "ZenPacks.AndreaConsadori.MSIAS_RadiusServer"]
+	path = ZenPacks.AndreaConsadori.MSIAS_RadiusServer
+	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.MSIAS_RadiusServer.git
