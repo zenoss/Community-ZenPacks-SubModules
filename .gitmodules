@@ -541,3 +541,6 @@
 [submodule "ZenPacks.fdeckert.reports"]
 	path = ZenPacks.fdeckert.reports
 	url = git://github.com/zenoss/ZenPacks.fdeckert.reports.git
+[submodule "ZenPacks.ipSLA.SLADevice"]
+	path = ZenPacks.ipSLA.SLADevice
+	url = git://github.com/zenoss/ZenPacks.ipSLA.SLADevice.git
