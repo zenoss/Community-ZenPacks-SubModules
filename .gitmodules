@@ -547,3 +547,6 @@
 [submodule "ZenPacks.jschroeder.GangliaMonitor"]
 	path = ZenPacks.jschroeder.GangliaMonitor
 	url = git://github.com/zenoss/ZenPacks.jschroeder.GangliaMonitor.git
+[submodule "ZenPacks.mcgov.IBMMQMonitor"]
+	path = ZenPacks.mcgov.IBMMQMonitor
+	url = git://github.com/zenoss/ZenPacks.mcgov.IBMMQMonitor.git
