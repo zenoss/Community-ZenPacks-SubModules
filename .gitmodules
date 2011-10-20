@@ -145,3 +145,6 @@
 [submodule "ZenPacks.Opengear.ConsoleServer"]
 	path = ZenPacks.Opengear.ConsoleServer
 	url = git://github.com/zenoss/ZenPacks.Opengear.ConsoleServer.git
+[submodule "ZenPacks.Opengear.MIBs"]
+	path = ZenPacks.Opengear.MIBs
+	url = git://github.com/zenoss/ZenPacks.Opengear.MIBs.git
