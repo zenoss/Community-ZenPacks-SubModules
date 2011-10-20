@@ -40,3 +40,6 @@
 [submodule "ZenPacks.AndreaConsadori.MSIAS_RadiusServer"]
 	path = ZenPacks.AndreaConsadori.MSIAS_RadiusServer
 	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.MSIAS_RadiusServer.git
+[submodule "ZenPacks.AndreaConsadori.Microtick"]
+	path = ZenPacks.AndreaConsadori.Microtick
+	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.Microtick.git
