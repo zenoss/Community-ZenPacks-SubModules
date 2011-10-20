@@ -535,3 +535,6 @@
 [submodule "ZenPacks.fdeckert.myDeviceIssues"]
 	path = ZenPacks.fdeckert.myDeviceIssues
 	url = git://github.com/zenoss/ZenPacks.fdeckert.myDeviceIssues.git
+[submodule "ZenPacks.fdeckert.myeventviews"]
+	path = ZenPacks.fdeckert.myeventviews
+	url = git://github.com/zenoss/ZenPacks.fdeckert.myeventviews.git
