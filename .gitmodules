@@ -301,3 +301,6 @@
 [submodule "ZenPacks.community.HPPrinterTrapTransforms"]
 	path = ZenPacks.community.HPPrinterTrapTransforms
 	url = git://github.com/zenoss/ZenPacks.community.HPPrinterTrapTransforms.git
+[submodule "ZenPacks.community.HPSIMMonitor"]
+	path = ZenPacks.community.HPSIMMonitor
+	url = git://github.com/zenoss/ZenPacks.community.HPSIMMonitor.git
