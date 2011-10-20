@@ -265,3 +265,6 @@
 [submodule "ZenPacks.community.DistributedCollectors"]
 	path = ZenPacks.community.DistributedCollectors
 	url = git://github.com/zenoss/ZenPacks.community.DistributedCollectors.git
+[submodule "ZenPacks.community.EmailPing"]
+	path = ZenPacks.community.EmailPing
+	url = git://github.com/zenoss/ZenPacks.community.EmailPing.git
