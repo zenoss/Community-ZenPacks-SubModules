@@ -580,3 +580,6 @@
 [submodule "ZenPacks.turner.CiscoMDS"]
 	path = ZenPacks.turner.CiscoMDS
 	url = git://github.com/zenoss/ZenPacks.turner.CiscoMDS.git
+[submodule "ZenPacks.vaibhav.brocadeswitches"]
+	path = ZenPacks.vaibhav.brocadeswitches
+	url = git://github.com/zenoss/ZenPacks.vaibhav.brocadeswitches.git
