@@ -466,3 +466,6 @@
 [submodule "ZenPacks.community.WMIDataSource"]
 	path = ZenPacks.community.WMIDataSource
 	url = git://github.com/zenoss/ZenPacks.community.WMIDataSource.git
+[submodule "ZenPacks.community.WMIFilesMonitor"]
+	path = ZenPacks.community.WMIFilesMonitor
+	url = git://github.com/zenoss/ZenPacks.community.WMIFilesMonitor.git
