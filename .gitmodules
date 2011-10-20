@@ -13,3 +13,6 @@
 [submodule "ZenPacks.AndreaConsadori.Asterisk"]
 	path = ZenPacks.AndreaConsadori.Asterisk
 	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.Asterisk.git
+[submodule "ZenPacks.AndreaConsadori.Asterisk16"]
+	path = ZenPacks.AndreaConsadori.Asterisk16
+	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.Asterisk16.git
