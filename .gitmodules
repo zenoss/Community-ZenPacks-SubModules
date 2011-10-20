@@ -352,3 +352,6 @@
 [submodule "ZenPacks.community.MsmqMonitor"]
 	path = ZenPacks.community.MsmqMonitor
 	url = git://github.com/zenoss/ZenPacks.community.MsmqMonitor.git
+[submodule "ZenPacks.community.MySQLMon_ODBC"]
+	path = ZenPacks.community.MySQLMon_ODBC
+	url = git://github.com/zenoss/ZenPacks.community.MySQLMon_ODBC.git
