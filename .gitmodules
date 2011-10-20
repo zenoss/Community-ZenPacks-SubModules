@@ -448,3 +448,6 @@
 [submodule "ZenPacks.community.VMwareDataSource"]
 	path = ZenPacks.community.VMwareDataSource
 	url = git://github.com/zenoss/ZenPacks.community.VMwareDataSource.git
+[submodule "ZenPacks.community.VMwareESXMonitor"]
+	path = ZenPacks.community.VMwareESXMonitor
+	url = git://github.com/zenoss/ZenPacks.community.VMwareESXMonitor.git
