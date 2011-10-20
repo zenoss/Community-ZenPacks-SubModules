@@ -334,3 +334,6 @@
 [submodule "ZenPacks.community.LinuxMonitorAddOn"]
 	path = ZenPacks.community.LinuxMonitorAddOn
 	url = git://github.com/zenoss/ZenPacks.community.LinuxMonitorAddOn.git
+[submodule "ZenPacks.community.MSSQL64Monitor"]
+	path = ZenPacks.community.MSSQL64Monitor
+	url = git://github.com/zenoss/ZenPacks.community.MSSQL64Monitor.git
