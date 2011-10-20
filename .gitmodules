@@ -385,3 +385,6 @@
 [submodule "ZenPacks.community.OSX"]
 	path = ZenPacks.community.OSX
 	url = git://github.com/zenoss/ZenPacks.community.OSX.git
+[submodule "ZenPacks.community.OpenSolaris"]
+	path = ZenPacks.community.OpenSolaris
+	url = git://github.com/zenoss/ZenPacks.community.OpenSolaris.git
