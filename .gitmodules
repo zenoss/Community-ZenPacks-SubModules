@@ -187,3 +187,6 @@
 [submodule "ZenPacks.ZenSystems.ApcUps"]
 	path = ZenPacks.ZenSystems.ApcUps
 	url = git://github.com/zenoss/ZenPacks.ZenSystems.ApcUps.git
+[submodule "ZenPacks.ZenSystems.DellUps"]
+	path = ZenPacks.ZenSystems.DellUps
+	url = git://github.com/zenoss/ZenPacks.ZenSystems.DellUps.git
