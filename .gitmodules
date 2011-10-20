@@ -85,3 +85,6 @@
 [submodule "ZenPacks.Imas.BlueCoat"]
 	path = ZenPacks.Imas.BlueCoat
 	url = git://github.com/zenoss/ZenPacks.Imas.BlueCoat.git
+[submodule "ZenPacks.Imas.SmsFunctions"]
+	path = ZenPacks.Imas.SmsFunctions
+	url = git://github.com/zenoss/ZenPacks.Imas.SmsFunctions.git
