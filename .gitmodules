@@ -43,3 +43,6 @@
 [submodule "ZenPacks.AndreaConsadori.Microtick"]
 	path = ZenPacks.AndreaConsadori.Microtick
 	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.Microtick.git
+[submodule "ZenPacks.AndreaConsadori.Motorola"]
+	path = ZenPacks.AndreaConsadori.Motorola
+	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.Motorola.git
