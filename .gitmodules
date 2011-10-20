@@ -370,3 +370,6 @@
 [submodule "ZenPacks.community.Netbotz"]
 	path = ZenPacks.community.Netbotz
 	url = git://github.com/zenoss/ZenPacks.community.Netbotz.git
+[submodule "ZenPacks.community.Netbotz_RackBotz"]
+	path = ZenPacks.community.Netbotz_RackBotz
+	url = git://github.com/zenoss/ZenPacks.community.Netbotz_RackBotz.git
