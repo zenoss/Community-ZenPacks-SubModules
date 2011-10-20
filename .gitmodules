@@ -190,3 +190,6 @@
 [submodule "ZenPacks.ZenSystems.DellUps"]
 	path = ZenPacks.ZenSystems.DellUps
 	url = git://github.com/zenoss/ZenPacks.ZenSystems.DellUps.git
+[submodule "ZenPacks.ZenSystems.Juniper"]
+	path = ZenPacks.ZenSystems.Juniper
+	url = git://github.com/zenoss/ZenPacks.ZenSystems.Juniper.git
