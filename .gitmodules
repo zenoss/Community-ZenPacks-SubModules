@@ -388,3 +388,6 @@
 [submodule "ZenPacks.community.OpenSolaris"]
 	path = ZenPacks.community.OpenSolaris
 	url = git://github.com/zenoss/ZenPacks.community.OpenSolaris.git
+[submodule "ZenPacks.community.OracleMon"]
+	path = ZenPacks.community.OracleMon
+	url = git://github.com/zenoss/ZenPacks.community.OracleMon.git
