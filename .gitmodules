@@ -139,3 +139,6 @@
 [submodule "ZenPacks.Nova.Windows.SNMPPerfMonitorSimple"]
 	path = ZenPacks.Nova.Windows.SNMPPerfMonitorSimple
 	url = git://github.com/zenoss/ZenPacks.Nova.Windows.SNMPPerfMonitorSimple.git
+[submodule "ZenPacks.OndrejJakubcik.OracleHwMonitoring"]
+	path = ZenPacks.OndrejJakubcik.OracleHwMonitoring
+	url = git://github.com/zenoss/ZenPacks.OndrejJakubcik.OracleHwMonitoring.git
