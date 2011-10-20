@@ -271,3 +271,6 @@
 [submodule "ZenPacks.community.EventGraph.BySeverity"]
 	path = ZenPacks.community.EventGraph.BySeverity
 	url = git://github.com/zenoss/ZenPacks.community.EventGraph.BySeverity.git
+[submodule "ZenPacks.community.FDS"]
+	path = ZenPacks.community.FDS
+	url = git://github.com/zenoss/ZenPacks.community.FDS.git
