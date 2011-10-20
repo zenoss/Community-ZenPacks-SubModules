@@ -49,3 +49,6 @@
 [submodule "ZenPacks.AndreaConsadori.Netasq"]
 	path = ZenPacks.AndreaConsadori.Netasq
 	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.Netasq.git
+[submodule "ZenPacks.AndreaConsadori.Pfsense"]
+	path = ZenPacks.AndreaConsadori.Pfsense
+	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.Pfsense.git
