@@ -577,3 +577,6 @@
 [submodule "ZenPacks.synthetictransactions.SonnyStormes"]
 	path = ZenPacks.synthetictransactions.SonnyStormes
 	url = git://github.com/zenoss/ZenPacks.synthetictransactions.SonnyStormes.git
+[submodule "ZenPacks.turner.CiscoMDS"]
+	path = ZenPacks.turner.CiscoMDS
+	url = git://github.com/zenoss/ZenPacks.turner.CiscoMDS.git
