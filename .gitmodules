@@ -310,3 +310,6 @@
 [submodule "ZenPacks.community.HPUXMonitor"]
 	path = ZenPacks.community.HPUXMonitor
 	url = git://github.com/zenoss/ZenPacks.community.HPUXMonitor.git
+[submodule "ZenPacks.community.IBM3584Mon"]
+	path = ZenPacks.community.IBM3584Mon
+	url = git://github.com/zenoss/ZenPacks.community.IBM3584Mon.git
