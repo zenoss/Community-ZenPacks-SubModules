@@ -436,3 +436,6 @@
 [submodule "ZenPacks.community.SwiftCM2"]
 	path = ZenPacks.community.SwiftCM2
 	url = git://github.com/zenoss/ZenPacks.community.SwiftCM2.git
+[submodule "ZenPacks.community.TokyoTyrant"]
+	path = ZenPacks.community.TokyoTyrant
+	url = git://github.com/zenoss/ZenPacks.community.TokyoTyrant.git
