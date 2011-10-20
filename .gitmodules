@@ -31,3 +31,6 @@
 [submodule "ZenPacks.AndreaConsadori.Iomega"]
 	path = ZenPacks.AndreaConsadori.Iomega
 	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.Iomega.git
+[submodule "ZenPacks.AndreaConsadori.LenovoRDThinkServer"]
+	path = ZenPacks.AndreaConsadori.LenovoRDThinkServer
+	url = git://github.com/zenoss/ZenPacks.AndreaConsadori.LenovoRDThinkServer.git
