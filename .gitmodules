@@ -463,3 +463,6 @@
 [submodule "ZenPacks.community.WBEMDataSource"]
 	path = ZenPacks.community.WBEMDataSource
 	url = git://github.com/zenoss/ZenPacks.community.WBEMDataSource.git
+[submodule "ZenPacks.community.WMIDataSource"]
+	path = ZenPacks.community.WMIDataSource
+	url = git://github.com/zenoss/ZenPacks.community.WMIDataSource.git
