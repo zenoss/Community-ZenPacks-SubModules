@@ -586,3 +586,6 @@
 [submodule "ZenPacks.vmware.VirtualMachines"]
 	path = ZenPacks.vmware.VirtualMachines
 	url = git://github.com/zenoss/ZenPacks.vmware.VirtualMachines.git
+[submodule "ZenPacks.nozen.HPUXMon"]
+	path = ZenPacks.nozen.HPUXMon
+	url = git://github.com/zenoss/ZenPacks.nozen.HPUXMon.git
