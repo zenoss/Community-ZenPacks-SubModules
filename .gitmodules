@@ -589,3 +589,6 @@
 [submodule "ZenPacks.nozen.HPUXMon"]
 	path = ZenPacks.nozen.HPUXMon
 	url = git://github.com/zenoss/ZenPacks.nozen.HPUXMon.git
+[submodule "ZenPacks.oie.KannelMonitor"]
+	path = ZenPacks.oie.KannelMonitor
+	url = git://github.com/zenoss/ZenPacks.oie.KannelMonitor.git
