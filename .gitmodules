@@ -595,3 +595,6 @@
 [submodule "ZenPacks.community.NortelMon"]
 	path = ZenPacks.community.NortelMon
 	url = git://github.com/zenoss/ZenPacks.community.NortelMon.git
+[submodule "ZenPacks.mcgov.SiebelCRMMonitor"]
+	path = ZenPacks.mcgov.SiebelCRMMonitor
+	url = git://github.com/zenoss/ZenPacks.mcgov.SiebelCRMMonitor.git
