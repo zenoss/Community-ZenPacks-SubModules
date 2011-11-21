@@ -604,3 +604,6 @@
 [submodule "ZenPacks.skills1st.UserRoles"]
 	path = ZenPacks.skills1st.UserRoles
 	url = git://github.com/zenoss/ZenPacks.skills1st.UserRoles.git
+[submodule "ZenPacks.ShaneScott.CPUCount"]
+	path = ZenPacks.ShaneScott.CPUCount
+	url = git://github.com/zenoss/ZenPacks.ShaneScott.CPUCount.git
