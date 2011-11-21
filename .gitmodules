@@ -607,3 +607,6 @@
 [submodule "ZenPacks.ShaneScott.CPUCount"]
 	path = ZenPacks.ShaneScott.CPUCount
 	url = git://github.com/zenoss/ZenPacks.ShaneScott.CPUCount.git
+[submodule "ZenPacks.ShaneScott.DeviceSearch"]
+	path = ZenPacks.ShaneScott.DeviceSearch
+	url = git://github.com/zenoss/ZenPacks.ShaneScott.DeviceSearch.git
