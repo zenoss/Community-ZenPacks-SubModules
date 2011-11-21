@@ -610,3 +610,6 @@
 [submodule "ZenPacks.ShaneScott.DeviceSearch"]
 	path = ZenPacks.ShaneScott.DeviceSearch
 	url = git://github.com/zenoss/ZenPacks.ShaneScott.DeviceSearch.git
+[submodule "ZenPacks.ShaneScott.ProductionState"]
+	path = ZenPacks.ShaneScott.ProductionState
+	url = git://github.com/zenoss/ZenPacks.ShaneScott.ProductionState.git
