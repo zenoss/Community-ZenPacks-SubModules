@@ -601,3 +601,6 @@
 [submodule "ZenPacks.community.zenSiebelCRM"]
 	path = ZenPacks.community.zenSiebelCRM
 	url = git://github.com/zenoss/ZenPacks.community.zenSiebelCRM.git
+[submodule "ZenPacks.skills1st.UserRoles"]
+	path = ZenPacks.skills1st.UserRoles
+	url = git://github.com/zenoss/ZenPacks.skills1st.UserRoles.git
