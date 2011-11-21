@@ -619,3 +619,6 @@
 [submodule "ZenPacks.community.zenIbmMQ"]
 	path = ZenPacks.community.zenIbmMQ
 	url = git://github.com/zenoss/ZenPacks.community.zenIbmMQ.git
+[submodule "ZenPacks.community.ZenossProcessStats"]
+	path = ZenPacks.community.ZenossProcessStats
+	url = git://github.com/zenoss/ZenPacks.community.ZenossProcessStats.git
