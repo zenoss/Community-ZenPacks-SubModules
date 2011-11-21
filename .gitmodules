@@ -616,3 +616,6 @@
 [submodule "ZenPacks.ShaneScott.SnmpName"]
 	path = ZenPacks.ShaneScott.SnmpName
 	url = git://github.com/zenoss/ZenPacks.ShaneScott.SnmpName.git
+[submodule "ZenPacks.community.zenIbmMQ"]
+	path = ZenPacks.community.zenIbmMQ
+	url = git://github.com/zenoss/ZenPacks.community.zenIbmMQ.git
