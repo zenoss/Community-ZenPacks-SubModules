@@ -622,3 +622,6 @@
 [submodule "ZenPacks.community.ZenossProcessStats"]
 	path = ZenPacks.community.ZenossProcessStats
 	url = git://github.com/zenoss/ZenPacks.community.ZenossProcessStats.git
+[submodule "ZenPacks.community.zenJavaApp"]
+	path = ZenPacks.community.zenJavaApp
+	url = git://github.com/j053ph4/ZenPacks.community.zenJavaApp.git
