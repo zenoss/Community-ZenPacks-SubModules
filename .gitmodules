@@ -625,3 +625,6 @@
 [submodule "ZenPacks.community.zenJavaApp"]
 	path = ZenPacks.community.zenJavaApp
 	url = git://github.com/j053ph4/ZenPacks.community.zenJavaApp.git
+[submodule "ZenPacks.community.WhatsDownPortlet"]
+	path = ZenPacks.community.WhatsDownPortlet
+	url = git://github.com/Pobice/ZenPacks.community.WhatsDownPortlet.git
