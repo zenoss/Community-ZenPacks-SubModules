@@ -628,3 +628,6 @@
 [submodule "ZenPacks.skills1st.MenuExamples"]
 	path = ZenPacks.skills1st.MenuExamples
 	url = git://github.com/jcurry/ZenPacks.skills1st.MenuExamples.git
+[submodule "ZenPacks.community.f5"]
+	path = ZenPacks.community.f5
+	url = git://github.com/dpetzel/ZenPacks.community.f5.git
