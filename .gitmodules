@@ -628,3 +628,6 @@
 [submodule "ZenPacks.community.WhatsDownPortlet"]
 	path = ZenPacks.community.WhatsDownPortlet
 	url = git://github.com/Pobice/ZenPacks.community.WhatsDownPortlet.git
+[submodule "ZenPacks.skills1st.MenuExamples"]
+	path = ZenPacks.skills1st.MenuExamples
+	url = git://github.com/jcurry/ZenPacks.skills1st.MenuExamples.git
