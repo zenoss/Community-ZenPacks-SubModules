@@ -592,9 +592,6 @@
 [submodule "ZenPacks.mcgov.SiebelCRMMonitor"]
 	path = ZenPacks.mcgov.SiebelCRMMonitor
 	url = git://github.com/zenoss/ZenPacks.mcgov.SiebelCRMMonitor.git
-[submodule "ZenPacks.community.zenSiebelCRM"]
-	path = ZenPacks.community.zenSiebelCRM
-	url = git://github.com/zenoss/ZenPacks.community.zenSiebelCRM.git
 [submodule "ZenPacks.skills1st.UserRoles"]
 	path = ZenPacks.skills1st.UserRoles
 	url = git://github.com/zenoss/ZenPacks.skills1st.UserRoles.git
@@ -631,3 +628,6 @@
 [submodule "ZenPacks.community.NortelMon"]
 	path = ZenPacks.community.NortelMon
 	url = git://github.com/rebelinux/ZenPacks.community.NortelMon.git
+[submodule "ZenPacks.community.zenSiebelCRM"]
+	path = ZenPacks.community.zenSiebelCRM
+	url = git://github.com/j053ph4/ZenPacks.community.zenSiebelCRM.git
