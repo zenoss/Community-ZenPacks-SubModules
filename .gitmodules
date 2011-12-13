@@ -628,3 +628,6 @@
 [submodule "ZenPacks.community.f5"]
 	path = ZenPacks.community.f5
 	url = git://github.com/dpetzel/ZenPacks.community.f5.git
+[submodule "ZenPacks.community.NortelMon"]
+	path = ZenPacks.community.NortelMon
+	url = git://github.com/rebelinux/ZenPacks.community.NortelMon.git
