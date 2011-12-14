@@ -634,3 +634,6 @@
 [submodule "ZenPacks.Darkemon.ZenCustomMap"]
 	path = ZenPacks.Darkemon.ZenCustomMap
 	url = git://github.com/Darkemon/ZenPacks.Darkemon.ZenCustomMap.git
+[submodule "Rhybudd"]
+	path = Rhybudd
+	url = git://github.com/NetworksAreMadeOfString/Rhybudd.git
