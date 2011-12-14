@@ -631,3 +631,6 @@
 [submodule "ZenPacks.community.zenIbmMQ"]
 	path = ZenPacks.community.zenIbmMQ
 	url = git://github.com/j053ph4/ZenPacks.community.zenIbmMQ.git
+[submodule "ZenPacks.Darkemon.ZenCustomMap"]
+	path = ZenPacks.Darkemon.ZenCustomMap
+	url = git://github.com/Darkemon/ZenPacks.Darkemon.ZenCustomMap.git
