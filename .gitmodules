@@ -637,3 +637,6 @@
 [submodule "Rhybudd"]
 	path = Rhybudd
 	url = git://github.com/NetworksAreMadeOfString/Rhybudd.git
+[submodule "ZenPacks.community.zenHttpComponent"]
+	path = ZenPacks.community.zenHttpComponent
+	url = git://github.com/j053ph4/ZenPacks.community.zenHttpComponent.git
