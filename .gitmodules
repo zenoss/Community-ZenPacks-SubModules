@@ -640,3 +640,6 @@
 [submodule "ZenPacks.community.zenHttpComponent"]
 	path = ZenPacks.community.zenHttpComponent
 	url = git://github.com/j053ph4/ZenPacks.community.zenHttpComponent.git
+[submodule "ZenPacks.community.Varnish3"]
+	path = ZenPacks.community.Varnish3
+	url = git://github.com/dpetzel/ZenPacks.community.Varnish3.git
