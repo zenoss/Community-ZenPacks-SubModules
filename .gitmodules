@@ -621,7 +621,7 @@
 	url = git://github.com/jcurry/ZenPacks.skills1st.MenuExamples.git
 [submodule "ZenPacks.community.f5"]
 	path = ZenPacks.community.f5
-	url = git://github.com/dpetzel/ZenPacks.community.f5.git
+	url = git://github.com/ZCA/ZenPacks.community.f5.git
 [submodule "ZenPacks.community.NortelMon"]
 	path = ZenPacks.community.NortelMon
 	url = git://github.com/rebelinux/ZenPacks.community.NortelMon.git
@@ -642,4 +642,4 @@
 	url = git://github.com/j053ph4/ZenPacks.community.zenHttpComponent.git
 [submodule "ZenPacks.community.Varnish3"]
 	path = ZenPacks.community.Varnish3
-	url = git://github.com/dpetzel/ZenPacks.community.Varnish3.git
+	url = git://github.com/ZCA/ZenPacks.community.Varnish3.git
