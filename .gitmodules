@@ -243,13 +243,13 @@
 	url = git://github.com/zenoss/ZenPacks.community.CiscoASAVPN.git
 [submodule "ZenPacks.community.CiscoEnvMon"]
 	path = ZenPacks.community.CiscoEnvMon
-	url = git://github.com/zenoss/ZenPacks.community.CiscoEnvMon.git
+	url = git://github.com/epuzanov/ZenPacks.community.CiscoEnvMon.git
 [submodule "ZenPacks.community.Clariion"]
 	path = ZenPacks.community.Clariion
 	url = git://github.com/zenoss/ZenPacks.community.Clariion.git
 [submodule "ZenPacks.community.ComponentsCleaner"]
 	path = ZenPacks.community.ComponentsCleaner
-	url = git://github.com/zenoss/ZenPacks.community.ComponentsCleaner.git
+	url = git://github.com/epuzanov/ZenPacks.community.ComponentsCleaner.git
 [submodule "ZenPacks.community.DellEqualLogicMon"]
 	path = ZenPacks.community.DellEqualLogicMon
 	url = git://github.com/zenoss/ZenPacks.community.DellEqualLogicMon.git
@@ -258,13 +258,13 @@
 	url = git://github.com/zenoss/ZenPacks.community.DellM1000e.git
 [submodule "ZenPacks.community.DellMon"]
 	path = ZenPacks.community.DellMon
-	url = git://github.com/zenoss/ZenPacks.community.DellMon.git
+	url = git://github.com/epuzanov/ZenPacks.community.DellMon.git
 [submodule "ZenPacks.community.DellSNMPTransforms"]
 	path = ZenPacks.community.DellSNMPTransforms
 	url = git://github.com/zenoss/ZenPacks.community.DellSNMPTransforms.git
 [submodule "ZenPacks.community.DistributedCollectors"]
 	path = ZenPacks.community.DistributedCollectors
-	url = git://github.com/zenoss/ZenPacks.community.DistributedCollectors.git
+	url = git://github.com/epuzanov/ZenPacks.community.DistributedCollectors.git
 [submodule "ZenPacks.community.EmailPing"]
 	path = ZenPacks.community.EmailPing
 	url = git://github.com/zenoss/ZenPacks.community.EmailPing.git
@@ -294,10 +294,10 @@
 	url = git://github.com/zenoss/ZenPacks.community.HPBladeChassis.git
 [submodule "ZenPacks.community.HPEVAMon"]
 	path = ZenPacks.community.HPEVAMon
-	url = git://github.com/zenoss/ZenPacks.community.HPEVAMon.git
+	url = git://github.com/epuzanov/ZenPacks.community.HPEVAMon.git
 [submodule "ZenPacks.community.HPMon"]
 	path = ZenPacks.community.HPMon
-	url = git://github.com/zenoss/ZenPacks.community.HPMon.git
+	url = git://github.com/epuzanov/ZenPacks.community.HPMon.git
 [submodule "ZenPacks.community.HPPrinterTrapTransforms"]
 	path = ZenPacks.community.HPPrinterTrapTransforms
 	url = git://github.com/zenoss/ZenPacks.community.HPPrinterTrapTransforms.git
@@ -315,7 +315,7 @@
 	url = git://github.com/zenoss/ZenPacks.community.IBM3584Mon.git
 [submodule "ZenPacks.community.IBMMon"]
 	path = ZenPacks.community.IBMMon
-	url = git://github.com/zenoss/ZenPacks.community.IBMMon.git
+	url = git://github.com/epuzanov/ZenPacks.community.IBMMon.git
 [submodule "ZenPacks.community.IBMSystemxIMM"]
 	path = ZenPacks.community.IBMSystemxIMM
 	url = git://github.com/zenoss/ZenPacks.community.IBMSystemxIMM.git
@@ -330,7 +330,7 @@
 	url = git://github.com/zenoss/ZenPacks.community.LLDP.git
 [submodule "ZenPacks.community.LinMon_WBEM"]
 	path = ZenPacks.community.LinMon_WBEM
-	url = git://github.com/zenoss/ZenPacks.community.LinMon_WBEM.git
+	url = git://github.com/epuzanov/ZenPacks.community.LinMon_WBEM.git
 [submodule "ZenPacks.community.LinuxMonitorAddOn"]
 	path = ZenPacks.community.LinuxMonitorAddOn
 	url = git://github.com/zenoss/ZenPacks.community.LinuxMonitorAddOn.git
@@ -348,19 +348,19 @@
 	url = git://github.com/zenoss/ZenPacks.community.Memcached_Template.git
 [submodule "ZenPacks.community.MsSQLMon_ODBC"]
 	path = ZenPacks.community.MsSQLMon_ODBC
-	url = git://github.com/zenoss/ZenPacks.community.MsSQLMon_ODBC.git
+	url = git://github.com/epuzanov/ZenPacks.community.MsSQLMon_ODBC.git
 [submodule "ZenPacks.community.MsmqMonitor"]
 	path = ZenPacks.community.MsmqMonitor
 	url = git://github.com/zenoss/ZenPacks.community.MsmqMonitor.git
 [submodule "ZenPacks.community.MySQLMon_ODBC"]
 	path = ZenPacks.community.MySQLMon_ODBC
-	url = git://github.com/zenoss/ZenPacks.community.MySQLMon_ODBC.git
+	url = git://github.com/epuzanov/ZenPacks.community.MySQLMon_ODBC.git
 [submodule "ZenPacks.community.MySQLSSH"]
 	path = ZenPacks.community.MySQLSSH
 	url = git://github.com/zenoss/ZenPacks.community.MySQLSSH.git
 [submodule "ZenPacks.community.NWMon"]
 	path = ZenPacks.community.NWMon
-	url = git://github.com/zenoss/ZenPacks.community.NWMon.git
+	url = git://github.com/epuzanov/ZenPacks.community.NWMon.git
 [submodule "ZenPacks.community.NetApp"]
 	path = ZenPacks.community.NetApp
 	url = git://github.com/zenoss/ZenPacks.community.NetApp.git
@@ -390,13 +390,13 @@
 	url = git://github.com/zenoss/ZenPacks.community.OpenSolaris.git
 [submodule "ZenPacks.community.OracleMon"]
 	path = ZenPacks.community.OracleMon
-	url = git://github.com/zenoss/ZenPacks.community.OracleMon.git
+	url = git://github.com/epuzanov/ZenPacks.community.OracleMon.git
 [submodule "ZenPacks.community.Perfmon"]
 	path = ZenPacks.community.Perfmon
 	url = git://github.com/zenoss/ZenPacks.community.Perfmon.git
 [submodule "ZenPacks.community.PgSQLMon_ODBC"]
 	path = ZenPacks.community.PgSQLMon_ODBC
-	url = git://github.com/zenoss/ZenPacks.community.PgSQLMon_ODBC.git
+	url = git://github.com/epuzanov/ZenPacks.community.PgSQLMon_ODBC.git
 [submodule "ZenPacks.community.PointThreshold"]
 	path = ZenPacks.community.PointThreshold
 	url = git://github.com/zenoss/ZenPacks.community.PointThreshold.git
@@ -411,7 +411,7 @@
 	url = git://github.com/zenoss/ZenPacks.community.PrinterToner.git
 [submodule "ZenPacks.community.RDBMS"]
 	path = ZenPacks.community.RDBMS
-	url = git://github.com/zenoss/ZenPacks.community.RDBMS.git
+	url = git://github.com/epuzanov/ZenPacks.community.RDBMS.git
 [submodule "ZenPacks.community.RangeThreshold"]
 	path = ZenPacks.community.RangeThreshold
 	url = git://github.com/zenoss/ZenPacks.community.RangeThreshold.git
@@ -420,7 +420,7 @@
 	url = git://github.com/zenoss/ZenPacks.community.SNMPLocation.git
 [submodule "ZenPacks.community.SQLDataSource"]
 	path = ZenPacks.community.SQLDataSource
-	url = git://github.com/zenoss/ZenPacks.community.SQLDataSource.git
+	url = git://github.com/epuzanov/ZenPacks.community.SQLDataSource.git
 [submodule "ZenPacks.community.Splunk"]
 	path = ZenPacks.community.Splunk
 	url = git://github.com/zenoss/ZenPacks.community.Splunk.git
@@ -459,13 +459,13 @@
 	url = git://github.com/zenoss/ZenPacks.community.VMwareEsx.git
 [submodule "ZenPacks.community.VirtualIP"]
 	path = ZenPacks.community.VirtualIP
-	url = git://github.com/zenoss/ZenPacks.community.VirtualIP.git
+	url = git://github.com/epuzanov/ZenPacks.community.VirtualIP.git
 [submodule "ZenPacks.community.WBEMDataSource"]
 	path = ZenPacks.community.WBEMDataSource
-	url = git://github.com/zenoss/ZenPacks.community.WBEMDataSource.git
+	url = git://github.com/epuzanov/ZenPacks.community.WBEMDataSource.git
 [submodule "ZenPacks.community.WMIDataSource"]
 	path = ZenPacks.community.WMIDataSource
-	url = git://github.com/zenoss/ZenPacks.community.WMIDataSource.git
+	url = git://github.com/epuzanov/ZenPacks.community.WMIDataSource.git
 [submodule "ZenPacks.community.WMIFilesMonitor"]
 	path = ZenPacks.community.WMIFilesMonitor
 	url = git://github.com/zenoss/ZenPacks.community.WMIFilesMonitor.git
@@ -474,7 +474,7 @@
 	url = git://github.com/zenoss/ZenPacks.community.WMIPerf_Exchange2003.git
 [submodule "ZenPacks.community.WMIPerf_IIS6"]
 	path = ZenPacks.community.WMIPerf_IIS6
-	url = git://github.com/zenoss/ZenPacks.community.WMIPerf_IIS6.git
+	url = git://github.com/epuzanov/ZenPacks.community.WMIPerf_IIS6.git
 [submodule "ZenPacks.community.WMIPerf_MSSQL"]
 	path = ZenPacks.community.WMIPerf_MSSQL
 	url = git://github.com/zenoss/ZenPacks.community.WMIPerf_MSSQL.git
@@ -483,10 +483,10 @@
 	url = git://github.com/zenoss/ZenPacks.community.WMIPerf_TerminalServer.git
 [submodule "ZenPacks.community.WMIPerf_Windows"]
 	path = ZenPacks.community.WMIPerf_Windows
-	url = git://github.com/zenoss/ZenPacks.community.WMIPerf_Windows.git
+	url = git://github.com/epuzanov/ZenPacks.community.WMIPerf_Windows.git
 [submodule "ZenPacks.community.ZenODBC"]
 	path = ZenPacks.community.ZenODBC
-	url = git://github.com/zenoss/ZenPacks.community.ZenODBC.git
+	url = git://github.com/epuzanov/ZenPacks.community.ZenODBC.git
 [submodule "ZenPacks.community.ZeusLoadBalancer"]
 	path = ZenPacks.community.ZeusLoadBalancer
 	url = git://github.com/zenoss/ZenPacks.community.ZeusLoadBalancer.git
@@ -495,7 +495,7 @@
 	url = git://github.com/zenoss/ZenPacks.community.aggregateAPCpduAB.git
 [submodule "ZenPacks.community.deviceAdvDetail"]
 	path = ZenPacks.community.deviceAdvDetail
-	url = git://github.com/zenoss/ZenPacks.community.deviceAdvDetail.git
+	url = git://github.com/epuzanov/ZenPacks.community.deviceAdvDetail.git
 [submodule "ZenPacks.community.eltek"]
 	path = ZenPacks.community.eltek
 	url = git://github.com/zenoss/ZenPacks.community.eltek.git
@@ -643,3 +643,12 @@
 [submodule "ZenPacks.community.Varnish3"]
 	path = ZenPacks.community.Varnish3
 	url = git://github.com/ZCA/ZenPacks.community.Varnish3.git
+[submodule "ZenPacks.community.SMISMon"]
+	path = ZenPacks.community.SMISMon
+	url = git://github.com/epuzanov/ZenPacks.community.SMISMon.git
+[submodule "ZenPacks.community.CIMMon"]
+	path = ZenPacks.community.CIMMon
+	url = git://github.com/epuzanov/ZenPacks.community.CIMMon.git
+[submodule "ZenPacks.community.CIMHardwareMon"]
+	path = ZenPacks.community.CIMHardwareMon
+	url = git://github.com/epuzanov/ZenPacks.community.CIMHardwareMon.git
