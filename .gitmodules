@@ -664,3 +664,12 @@
 [submodule "ZenPacks.community.Varnish"]
 	path = ZenPacks.community.Varnish
 	url = https://github.com/simplesconsultoria/ZenPacks.community.Varnish.git
+[submodule "ZenPacks.community.zenNrpeComponent"]
+	path = ZenPacks.community.zenNrpeComponent
+	url = https://github.com/j053ph4/ZenPacks.community.zenNrpeComponent.git
+[submodule "ZenPacks.community.zenMicrosoftMQ"]
+	path = ZenPacks.community.zenMicrosoftMQ
+	url = https://github.com/j053ph4/ZenPacks.community.zenMicrosoftMQ.git
+[submodule "ZenPacks.community.zenTerracotta"]
+	path = ZenPacks.community.zenTerracotta
+	url = https://github.com/j053ph4/ZenPacks.community.zenTerracotta.git
