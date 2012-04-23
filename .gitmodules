@@ -229,9 +229,6 @@
 [submodule "ZenPacks.community.ComponentsCleaner"]
 	path = ZenPacks.community.ComponentsCleaner
 	url = git://github.com/epuzanov/ZenPacks.community.ComponentsCleaner.git
-[submodule "ZenPacks.community.DellEqualLogicMon"]
-	path = ZenPacks.community.DellEqualLogicMon
-	url = git://github.com/zenoss/ZenPacks.community.DellEqualLogicMon.git
 [submodule "ZenPacks.community.DellM1000e"]
 	path = ZenPacks.community.DellM1000e
 	url = git://github.com/zenoss/ZenPacks.community.DellM1000e.git
@@ -676,3 +673,6 @@
 [submodule "ZenPacks.community.VMwareESXiMonitor"]
 	path = ZenPacks.community.VMwareESXiMonitor
 	url = https://github.com/ericenns/ZenPacks.community.VMwareESXiMonitor.git
+[submodule "ZenPacks.community.DellEqualLogicMon"]
+	path = ZenPacks.community.DellEqualLogicMon
+	url = https://github.com/ericenns/ZenPacks.community.DellEqualLogicMon.git
