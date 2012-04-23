@@ -676,3 +676,9 @@
 [submodule "ZenPacks.community.DellEqualLogicMon"]
 	path = ZenPacks.community.DellEqualLogicMon
 	url = https://github.com/ericenns/ZenPacks.community.DellEqualLogicMon.git
+[submodule "ZenPacks.community.Ibmbladecenter"]
+	path = ZenPacks.community.Ibmbladecenter
+	url = https://github.com/rebelinux/ZenPacks.community.Ibmbladecenter.git
+[submodule "ZenPacks.community.BrocadeSanSW"]
+	path = ZenPacks.community.BrocadeSanSW
+	url = https://github.com/rebelinux/ZenPacks.community.BrocadeSanSW.git
