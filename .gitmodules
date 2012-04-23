@@ -691,3 +691,6 @@
 [submodule "ZenPacks.community.Supervisor"]
 	path = ZenPacks.community.Supervisor
 	url = https://github.com/g-k/ZenPacks.community.Supervisor.git
+[submodule "ZenPacks.jhanson.Clouseau"]
+	path = ZenPacks.jhanson.Clouseau
+	url = https://github.com/jhanson/ZenPacks.jhanson.Clouseau.git
