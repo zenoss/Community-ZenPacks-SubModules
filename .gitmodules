@@ -412,9 +412,6 @@
 [submodule "ZenPacks.community.Ubuntu"]
 	path = ZenPacks.community.Ubuntu
 	url = git://github.com/zenoss/ZenPacks.community.Ubuntu.git
-[submodule "ZenPacks.community.VMwareDataSource"]
-	path = ZenPacks.community.VMwareDataSource
-	url = git://github.com/zenoss/ZenPacks.community.VMwareDataSource.git
 [submodule "ZenPacks.community.VMwareESXMonitor"]
 	path = ZenPacks.community.VMwareESXMonitor
 	url = git://github.com/zenoss/ZenPacks.community.VMwareESXMonitor.git
@@ -676,3 +673,6 @@
 [submodule "ZenPacks.ZenSystems.Juniper"]
 	path = ZenPacks.ZenSystems.Juniper
 	url = https://github.com/jcurry/ZenPacks.ZenSystems.Juniper.git
+[submodule "ZenPacks.community.VMwareDataSource"]
+	path = ZenPacks.community.VMwareDataSource
+	url = https://github.com/ericenns/ZenPacks.community.VMwareDataSource.git
