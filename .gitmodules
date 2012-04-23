@@ -391,9 +391,6 @@
 [submodule "ZenPacks.community.Perfmon"]
 	path = ZenPacks.community.Perfmon
 	url = git://github.com/zenoss/ZenPacks.community.Perfmon.git
-[submodule "ZenPacks.community.PgSQLMon_ODBC"]
-	path = ZenPacks.community.PgSQLMon_ODBC
-	url = git://github.com/epuzanov/ZenPacks.community.PgSQLMon_ODBC.git
 [submodule "ZenPacks.community.PointThreshold"]
 	path = ZenPacks.community.PointThreshold
 	url = git://github.com/zenoss/ZenPacks.community.PointThreshold.git
@@ -652,3 +649,6 @@
 [submodule "ZenPacks.community.MySQLMon"]
 	path = ZenPacks.community.MySQLMon
 	url = https://github.com/epuzanov/ZenPacks.community.MySQLMon.git
+[submodule "ZenPacks.community.PgSQLMon"]
+	path = ZenPacks.community.PgSQLMon
+	url = https://github.com/epuzanov/ZenPacks.community.PgSQLMon.git
