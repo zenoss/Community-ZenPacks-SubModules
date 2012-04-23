@@ -505,9 +505,6 @@
 [submodule "ZenPacks.community.puppet"]
 	path = ZenPacks.community.puppet
 	url = git://github.com/zenoss/ZenPacks.community.puppet.git
-[submodule "ZenPacks.community.zenAppProfiler"]
-	path = ZenPacks.community.zenAppProfiler
-	url = git://github.com/zenoss/ZenPacks.community.zenAppProfiler.git
 [submodule "ZenPacks.dnalley.AMQPEventMonitor"]
 	path = ZenPacks.dnalley.AMQPEventMonitor
 	url = git://github.com/zenoss/ZenPacks.dnalley.AMQPEventMonitor.git
@@ -673,3 +670,6 @@
 [submodule "ZenPacks.community.zenTerracotta"]
 	path = ZenPacks.community.zenTerracotta
 	url = https://github.com/j053ph4/ZenPacks.community.zenTerracotta.git
+[submodule "ZenPacks.community.zenAppProfiler"]
+	path = ZenPacks.community.zenAppProfiler
+	url = https://github.com/j053ph4/ZenPacks.community.zenAppProfiler
