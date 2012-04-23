@@ -478,9 +478,6 @@
 [submodule "ZenPacks.community.libvirt"]
 	path = ZenPacks.community.libvirt
 	url = git://github.com/zenoss/ZenPacks.community.libvirt.git
-[submodule "ZenPacks.community.mib_browser"]
-	path = ZenPacks.community.mib_browser
-	url = git://github.com/zenoss/ZenPacks.community.mib_browser.git
 [submodule "ZenPacks.community.mib_utils"]
 	path = ZenPacks.community.mib_utils
 	url = git://github.com/zenoss/ZenPacks.community.mib_utils.git
@@ -676,3 +673,6 @@
 [submodule "ZenPacks.community.PredictiveThreshold"]
 	path = ZenPacks.community.PredictiveThreshold
 	url = https://github.com/jcurry/ZenPacks.community.PredictiveThreshold.git
+[submodule "ZenPacks.community.mib_browser"]
+	path = ZenPacks.community.mib_browser
+	url = https://github.com/jcurry/ZenPacks.community.mib_browser.git
