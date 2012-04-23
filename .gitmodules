@@ -214,9 +214,6 @@
 [submodule "ZenPacks.community.AIX"]
 	path = ZenPacks.community.AIX
 	url = git://github.com/zenoss/ZenPacks.community.AIX.git
-[submodule "ZenPacks.community.AvailabilityReportPerCollection"]
-	path = ZenPacks.community.AvailabilityReportPerCollection
-	url = git://github.com/zenoss/ZenPacks.community.AvailabilityReportPerCollection.git
 [submodule "ZenPacks.community.AvailabilityReportPerGroup"]
 	path = ZenPacks.community.AvailabilityReportPerGroup
 	url = git://github.com/zenoss/ZenPacks.community.AvailabilityReportPerGroup.git
@@ -676,3 +673,6 @@
 [submodule "ZenPacks.ZenSystems.DellUps"]
 	path = ZenPacks.ZenSystems.DellUps
 	url = https://github.com/jcurry/ZenPacks.ZenSystems.DellUps.git
+[submodule "ZenPacks.community.AvailabilityReportPerCollection"]
+	path = ZenPacks.community.AvailabilityReportPerCollection
+	url = https://github.com/jcurry/ZenPacks.community.AvailabilityReportPerCollection.git
