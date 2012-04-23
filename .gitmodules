@@ -709,3 +709,6 @@
 [submodule "ZenPacks.luizzmizz.PrinterMIB"]
 	path = ZenPacks.luizzmizz.PrinterMIB
 	url = https://github.com/luizzmizz/ZenPacks.luizzmizz.PrinterMIB.git
+[submodule "ZenPacks.Merit.AdvaFSP3000R7"]
+	path = ZenPacks.Merit.AdvaFSP3000R7
+	url = https://github.com/kb8u/ZenPacks.Merit.AdvaFSP3000R7.git
