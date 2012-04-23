@@ -655,3 +655,12 @@
 [submodule "ZenPacks.community.aggregateAPCpduAB"]
 	path = ZenPacks.community.aggregateAPCpduAB
 	url = https://github.com/nickanderson/ZenPacks.community.aggregateAPCpduAB.git
+[submodule "ZenPacks.community.ZopeMonitor"]
+	path = ZenPacks.community.ZopeMonitor
+	url = https://github.com/simplesconsultoria/ZenPacks.community.ZopeMonitor.git
+[submodule "ZenPacks.community.IceCast2"]
+	path = ZenPacks.community.IceCast2
+	url = https://github.com/simplesconsultoria/ZenPacks.community.IceCast2.git
+[submodule "ZenPacks.community.Varnish"]
+	path = ZenPacks.community.Varnish
+	url = https://github.com/simplesconsultoria/ZenPacks.community.Varnish.git
