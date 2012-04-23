@@ -382,9 +382,6 @@
 [submodule "ZenPacks.community.PowerConnect"]
 	path = ZenPacks.community.PowerConnect
 	url = git://github.com/zenoss/ZenPacks.community.PowerConnect.git
-[submodule "ZenPacks.community.PredictiveThreshold"]
-	path = ZenPacks.community.PredictiveThreshold
-	url = git://github.com/zenoss/ZenPacks.community.PredictiveThreshold.git
 [submodule "ZenPacks.community.PrinterToner"]
 	path = ZenPacks.community.PrinterToner
 	url = git://github.com/zenoss/ZenPacks.community.PrinterToner.git
@@ -676,3 +673,6 @@
 [submodule "ZenPacks.community.AvailabilityReportPerCollection"]
 	path = ZenPacks.community.AvailabilityReportPerCollection
 	url = https://github.com/jcurry/ZenPacks.community.AvailabilityReportPerCollection.git
+[submodule "ZenPacks.community.PredictiveThreshold"]
+	path = ZenPacks.community.PredictiveThreshold
+	url = https://github.com/jcurry/ZenPacks.community.PredictiveThreshold.git
