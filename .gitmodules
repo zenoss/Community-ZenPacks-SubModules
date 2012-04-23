@@ -184,9 +184,6 @@
 [submodule "ZenPacks.ZenSystems.ApcPdu"]
 	path = ZenPacks.ZenSystems.ApcPdu
 	url = git://github.com/zenoss/ZenPacks.ZenSystems.ApcPdu.git
-[submodule "ZenPacks.ZenSystems.ApcUps"]
-	path = ZenPacks.ZenSystems.ApcUps
-	url = git://github.com/zenoss/ZenPacks.ZenSystems.ApcUps.git
 [submodule "ZenPacks.ZenSystems.DellUps"]
 	path = ZenPacks.ZenSystems.DellUps
 	url = git://github.com/zenoss/ZenPacks.ZenSystems.DellUps.git
@@ -676,3 +673,6 @@
 [submodule "ZenPacks.community.mibBrowser"]
 	path = ZenPacks.community.mibBrowser
 	url = https://github.com/jcurry/ZenPacks.community.mibBrowser.git
+[submodule "ZenPacks.ZenSystems.ApcUps"]
+	path = ZenPacks.ZenSystems.ApcUps
+	url = https://github.com/jcurry/ZenPacks.ZenSystems.ApcUps.git
