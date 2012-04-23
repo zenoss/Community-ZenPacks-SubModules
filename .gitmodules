@@ -352,9 +352,6 @@
 [submodule "ZenPacks.community.MsmqMonitor"]
 	path = ZenPacks.community.MsmqMonitor
 	url = git://github.com/zenoss/ZenPacks.community.MsmqMonitor.git
-[submodule "ZenPacks.community.MySQLMon_ODBC"]
-	path = ZenPacks.community.MySQLMon_ODBC
-	url = git://github.com/epuzanov/ZenPacks.community.MySQLMon_ODBC.git
 [submodule "ZenPacks.community.MySQLSSH"]
 	path = ZenPacks.community.MySQLSSH
 	url = git://github.com/zenoss/ZenPacks.community.MySQLSSH.git
@@ -652,3 +649,6 @@
 [submodule "ZenPacks.community.CIMHardwareMon"]
 	path = ZenPacks.community.CIMHardwareMon
 	url = git://github.com/epuzanov/ZenPacks.community.CIMHardwareMon.git
+[submodule "ZenPacks.community.MySQLMon"]
+	path = ZenPacks.community.MySQLMon
+	url = https://github.com/epuzanov/ZenPacks.community.MySQLMon.git
