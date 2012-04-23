@@ -694,3 +694,18 @@
 [submodule "ZenPacks.jhanson.Clouseau"]
 	path = ZenPacks.jhanson.Clouseau
 	url = https://github.com/jhanson/ZenPacks.jhanson.Clouseau.git
+[submodule "ZenPacks.presidencia.WindowsWS"]
+	path = ZenPacks.presidencia.WindowsWS
+	url = https://github.com/luizzmizz/ZenPacks.presidencia.WindowsWS.git
+[submodule "ZenPacks.presidencia.PrinterInventory"]
+	path = ZenPacks.presidencia.PrinterInventory
+	url = https://github.com/luizzmizz/ZenPacks.presidencia.PrinterInventory.git
+[submodule "ZenPacks.presidencia.CustomReports"]
+	path = ZenPacks.presidencia.CustomReports
+	url = https://github.com/luizzmizz/ZenPacks.presidencia.CustomReports.git
+[submodule "ZenPacks.luizzmizz.WindowsWS"]
+	path = ZenPacks.luizzmizz.WindowsWS
+	url = https://github.com/luizzmizz/ZenPacks.luizzmizz.WindowsWS.git
+[submodule "ZenPacks.luizzmizz.PrinterMIB"]
+	path = ZenPacks.luizzmizz.PrinterMIB
+	url = https://github.com/luizzmizz/ZenPacks.luizzmizz.PrinterMIB.git
