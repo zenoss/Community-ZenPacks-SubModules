@@ -652,3 +652,6 @@
 [submodule "ZenPacks.community.NginxStatus"]
 	path = ZenPacks.community.NginxStatus
 	url = https://github.com/nickanderson/ZenPacks.community.NginxStatus.git
+[submodule "ZenPacks.community.CheckDomain"]
+	path = ZenPacks.community.CheckDomain
+	url = https://github.com/nickanderson/ZenPacks.community.CheckDomain.git
