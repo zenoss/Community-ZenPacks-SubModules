@@ -685,3 +685,9 @@
 [submodule "ZenPacks.ndgov.IBMsvc"]
 	path = ZenPacks.ndgov.IBMsvc
 	url = https://github.com/zenchild/ZenPacks.ndgov.IBMsvc.git
+[submodule "ZenPacks.community.RabbitMQ"]
+	path = ZenPacks.community.RabbitMQ
+	url = https://github.com/g-k/ZenPacks.community.RabbitMQ.git
+[submodule "ZenPacks.community.Supervisor"]
+	path = ZenPacks.community.Supervisor
+	url = https://github.com/g-k/ZenPacks.community.Supervisor.git
