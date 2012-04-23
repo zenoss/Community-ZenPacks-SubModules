@@ -682,3 +682,6 @@
 [submodule "ZenPacks.community.BrocadeSanSW"]
 	path = ZenPacks.community.BrocadeSanSW
 	url = https://github.com/rebelinux/ZenPacks.community.BrocadeSanSW.git
+[submodule "ZenPacks.ndgov.IBMsvc"]
+	path = ZenPacks.ndgov.IBMsvc
+	url = https://github.com/zenchild/ZenPacks.ndgov.IBMsvc.git
