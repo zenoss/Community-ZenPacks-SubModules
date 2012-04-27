@@ -322,9 +322,6 @@
 [submodule "ZenPacks.community.Memcached_Template"]
 	path = ZenPacks.community.Memcached_Template
 	url = git://github.com/zenoss/ZenPacks.community.Memcached_Template.git
-[submodule "ZenPacks.community.MsSQLMon_ODBC"]
-	path = ZenPacks.community.MsSQLMon_ODBC
-	url = git://github.com/epuzanov/ZenPacks.community.MsSQLMon_ODBC.git
 [submodule "ZenPacks.community.MsmqMonitor"]
 	path = ZenPacks.community.MsmqMonitor
 	url = git://github.com/zenoss/ZenPacks.community.MsmqMonitor.git
@@ -712,3 +709,6 @@
 [submodule "ZenPacks.Merit.AdvaFSP3000R7"]
 	path = ZenPacks.Merit.AdvaFSP3000R7
 	url = https://github.com/kb8u/ZenPacks.Merit.AdvaFSP3000R7.git
+[submodule "ZenPacks.community.MsSQLMon"]
+	path = ZenPacks.community.MsSQLMon
+	url = https://github.com/epuzanov/ZenPacks.community.MsSQLMon.git
